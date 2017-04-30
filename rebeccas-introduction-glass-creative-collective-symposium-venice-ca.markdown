@@ -1,0 +1,12 @@
+---
+title: 'Rebeccas introduction: Glass Creative Collective Symposium: Venice, CA'
+date: 2013-04-20 11:19:00 -07:00
+---
+
+> I wanted to talk briefly about the origins of our project. My original proposal was to make a Super–8 movie based on an unrealized scenario written by Joseph Cornell called M. Phot. The scenario features a photographer who is taking pictures around New York City with a view camera. Each time he ducks under the cloth, a brilliantly colored pheasant runs through the frame, but he’s never able to capture it on film.
+
+> When we started meeting together, we realized for a variety of reasons that we wanted to make something else, but that idea of pursuing the ephemeral stayed with us throughout the process with Joseph Cornell figuring as a kind of patron saint of our project.
+
+> So, we decided that we didn’t want to make something practical. We didn’t want to make a tool. We wanted to see how we could use Glass in all its specificity to make something expressive. What you see in the video behind me are some glimpses of what we decided to try. We wanted to work materially and have that materiality meet the virtual world of Glass. Partly because Glass frees up your hands. So let’s not then use our hands to type on a computer keyboard or touch screen, but let’s touch materials and this is how we came to the idea of doing paint-on-glass animation in relation to video streamed by Glass.
+
+> We wanted to use the networking capability of Glass as well, the idea being that one person out in the field somewhere would stream video to someone in the studio who would paint into or in relation to the video image and then pass on the video image plus the painted layer they created to another user who would then create an additional layer and so on. We imagined doing this as a site-specific installation, maybe painting on windows around an intersection or something like that but we had a lot of trouble getting the hangouts to work. After some brief remarks are made by the rest of the team, we ‘re going to try a networked demo here with the help of the staff here. So cross your fingers. But first, I’d like to introduce Doug Goodwin who was a collaborator on the project who’s going to say a few words.
