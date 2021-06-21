@@ -1,0 +1,25 @@
+Title: Presentation: Interdisciplinary Data Science Faculty Panel
+
+----
+
+Text: [{"content":{"text":"Can you use data science to make an experimental film? Yes. We are collecting knock-knock jokes, collecting videos of talking birds, and training machines to identify human and bird phonemes. We are trying to answer some questions about <strong>learning <\/strong>and <strong>representation<\/strong>.","citation":""},"id":"c342e486-ddb4-4378-89c0-4cfb9e8d2541","isHidden":false,"type":"quote"},{"content":{"text":"<p><strong>Doug Goodwin, Media Studies, Scripps <\/strong><\/p><p><strong>Robin Melnick, Linguistics\/CogSci, Pomona <\/strong><\/p><p><strong>Christina Edholm, Mathematics, Scripps <\/strong><\/p><p>Moderated by <strong>Jeanine Finn<\/strong>, Data Science &amp; Digital Scholarship Coordinator, The Claremont Colleges Library<\/p><p><strong>What might artists, historians, climate scientists, economists, philosophers, mathematicians, and policy makers all have in common?<\/strong><\/p><p><\/p><p><strong>Data Science <\/strong>is inherently interdisciplinary and is used today to decide who gets parole, who gets a mortgage, and what insurance rates we each pay. Come learn from esteemed colleagues across the Claremont Colleges who are using data science in innovative ways across diverse fields.<\/p><p><strong>Claremont Colleges Office of Consortial Academic Collaboration<\/strong><\/p><p><\/p>"},"id":"4d93940f-9754-4de2-ab54-4c415200bdfa","isHidden":false,"type":"text"}]
+
+----
+
+Cover:
+
+- ocac_presentation_md.jpg
+
+----
+
+Date: 2021-04-28 12:00:00
+
+----
+
+Author:
+
+- F8TQVjfl
+
+----
+
+Tags: data science, art, presentation

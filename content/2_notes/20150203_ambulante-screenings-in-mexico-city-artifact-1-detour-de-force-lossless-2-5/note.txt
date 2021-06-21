@@ -1,0 +1,25 @@
+Title: Ambulante Screenings In Mexico City: Artifact #1, Detour De Force, Lossless #2,5
+
+----
+
+Text: [{"content":{"text":"<p>Thu, Jan 29, 20151:00 PM&nbsp;&nbsp;Thu, Feb 12, 20152:00 PM<\/p><p>Artist in attendance February 03.<\/p>"},"id":"c3dec3a4-f192-4fef-965e-21685d89b5d8","isHidden":false,"type":"text"}]
+
+----
+
+Cover:
+
+- artifact_1_33-644x320.png
+
+----
+
+Date: 2015-02-03 00:00:00
+
+----
+
+Author:
+
+- F8TQVjfl
+
+----
+
+Tags: video, performance, lecture, ambulante

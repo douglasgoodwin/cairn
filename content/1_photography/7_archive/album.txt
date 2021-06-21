@@ -1,0 +1,23 @@
+Title: archive
+
+----
+
+Cover:
+
+- 2014-09-05-18.28.01.jpg
+
+----
+
+Headline: MPEG-4 studies and tests
+
+----
+
+Subheadline: 
+
+----
+
+Text: <p>Examples of MPEG-4 grouping imagery together, reducing motion to stills. ultimately these will be explored as animations.&nbsp;</p><p>these video panoramas show MPEG-4 working out the boundaries of their subjects. the results are consistent enough to start using this process. the variables are speed of motion, brightness of subjects, "griddiness" of the subject, and distance from the sensor.</p>
+
+----
+
+Tags: archive, experiments, compression, MPEG-4, tests

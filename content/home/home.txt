@@ -1,0 +1,9 @@
+Title: Home
+
+----
+
+Headline: Douglas Goodwin
+
+----
+
+Subheadline: portfolio

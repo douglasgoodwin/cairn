@@ -1,0 +1,28 @@
+Title: Ambulante: Cinevidencias
+
+----
+
+Text: [{"content":{"text":"<p><strong>SYNOPSIS<\/strong><\/p><p>Proyecci\u00f3n y platica&nbsp;con Rebecca Baron,&nbsp;Douglas Goodwin, Paulina&nbsp;del Paso y Ximena Cuevas.<\/p><p>Las obras de Baron, Goodwin, Del Paso y Cuevas exploran el lado oscuro del asombro: presencias invisibles propias o ajenas, impresiones inquietantes que difi\u0301cilmente pueden ser racionalizadas con el intelecto.<\/p><p>En la d\u00e9cada de 1960&nbsp;<strong>Ted Serios<\/strong>&nbsp;produjo cientos de fotograf\u00edas instant\u00e1neas con su mente. Con material de archivo, la pel\u00edcula retrata el surgimiento de la fotograf\u00eda ps\u00edquica de Serios.<\/p><p><strong>Artefacto #1<\/strong>&nbsp;es el estudio de una persecuci\u00f3n de autos transformada en un suave fluir que retiene la forma del original. El efecto da como resultado la fundici\u00f3n de luz y sonido.<\/p><p>Dos video-collages que exploran los estereotipos construidos en la televisi\u00f3n nacional y la manera como se retrata a las mujeres y a los hombres a partir de ellos.<\/p><p>Borremos la d\u00e9cada de 1940 y el deseo por mejorar la apariencia. Intentemos registrar una historia de amor. De esta forma, un facial se puede convertir en el m\u00e1s grande placer que queda.<\/p><p>Un&nbsp;<strong>ballet acu\u00e1tico<\/strong>&nbsp;se comprime para crear una mitosis org\u00e1nica usando varias t\u00e9cnicas de alteraci\u00f3n digital: compresi\u00f3n, archivos compartidos y eliminaci\u00f3n de informaci\u00f3n digital.<\/p><p>Dorothy nunca alcanza su sue\u00f1o en la&nbsp;<strong>Ciudad Esmeralda<\/strong>. Al contrario, ya habr\u00e1 cruzado al otro lado del arco\u00edris para cuando llegue a la peor esquina de Kansas.<\/p><p>Un fascinante ensamblaje de im\u00e1genes digitales comprimidas, derivadas de la pel\u00edcula&nbsp;<strong>Meshes of the Afternoon<\/strong>, de 1943, dirigida por Maya Deren y Alexander Hammid.<\/p><p>Una exploraci\u00f3n del artificio, la fabricaci\u00f3n de las emociones y los muchos disfraces de la mentira. Aunque veamos los trucos de la c\u00e1mara, la acci\u00f3n seguir\u00e1 pareciendo dram\u00e1tica.<\/p>"},"id":"a05cb9ff-c9d5-4ccf-b332-08889051787a","isHidden":false,"type":"text"}]
+
+----
+
+Cover:
+
+- >
+  cinevidencias__proyeccion_y_platica_on_vimeo.jpg
+
+----
+
+Date: 2015-03-02 00:00:00
+
+----
+
+Author: 
+
+----
+
+Tags: presentation, ambulante, artifact series
+
+----
+
+Subheading: 

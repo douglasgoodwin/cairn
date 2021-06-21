@@ -1,0 +1,23 @@
+Title: 100% Austen
+
+----
+
+Cover:
+
+- austenmss_4.png
+
+----
+
+Headline:
+
+----
+
+Subheadline: sheets of antiqued paper, ink made according to an early 19th century recipe
+
+----
+
+Text: Text produced by reverse stylometry was given to a calligrapher who created a document with a 100% chance of being attributable to Jane Austen.
+
+----
+
+Tags: art, stylometry

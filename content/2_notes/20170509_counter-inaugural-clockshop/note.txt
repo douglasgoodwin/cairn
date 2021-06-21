@@ -1,0 +1,29 @@
+Title: Counter-Inaugural @Clockshop
+
+----
+
+Text: [{"content":{"level":"h2","text":"<strong>Counter-Inaugural:&nbsp;Douglas Goodwin on Electronic Privacy<br><\/strong><a href=\"https:\/\/clockshop.org\/project\/ci-recordings\/\" rel=\"noopener noreferrer nofollow\">https:\/\/clockshop.org\/project\/ci-recordings\/<\/a>"},"id":"9f1f1773-ee7d-43f1-9978-8068b7ad3626","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>We conduct our lives over media devices. We steep ourselves in streams of media.&nbsp;Every day the news brings revelations about Internet wiretapping, data mining, and abuses of power.<\/strong><\/p><p>This presentation by Douglas Goodwin will introduce specific threats to our electronic privacy, and outline defensive and offensive actions we can take to mitigate them.<\/p><p>This event is part of Clockshop\u2019s&nbsp;<em><u><a href=\"https:\/\/clockshop.org\/project\/counter-inaugural\/\" rel=\"noopener noreferrer nofollow\">Counter-Inaugural<\/a><\/u><\/em>, a series of talks addressing local and national politics through a cultural lens.<\/p><p>Douglas Goodwin maintains a keen watch over the misalignments between systems of information, language, and human perception. These interests have led him into several careers ranging from engine repair to creative direction and software architecture. In this latter capacity, Goodwin serves as Lead Programmer for Metro.net at Los Angeles County\u2019s MTA. He also teaches on subjects related to information theory at CalArts. Goodwin is currently working on a project about the labor involved in the production of color.<\/p>"},"id":"fff3f248-9a0f-44ec-af0c-a59126be24a4","isHidden":false,"type":"text"}]
+
+----
+
+Cover:
+
+- ci-dgoodwin-email-22-1434x0-c-f.png
+
+----
+
+Date: 2017-05-09 00:00:00
+
+----
+
+Author:
+
+- F8TQVjfl
+
+----
+
+Tags: presentation, clockshop
+
+----
+
+Subheading: 

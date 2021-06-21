@@ -1,0 +1,24 @@
+Title: Jack Kerouac
+
+----
+
+Cover:
+
+- >
+  kerouacs_ear4-low_res-width-1080px-gigapixel.png
+
+----
+
+Headline: Kerouac's Ear
+
+----
+
+Subheadline: Restored Teleprinter, Teletype paper, custom electronics, software chat-logger
+
+----
+
+Text: <p>Kerouac’s ear is writing new novels. The teleprinter machine is monitoring chat-rooms for writing that passes for Kerouac. When text of sufficient Kerouac-ness is found, it’s typed onto a long roll of paper. Over the course of approximately three weeks the roll is filled and a new one is loaded into the machine. The chat- rooms which provide the text have names like #allnitecafe, #depression, #football, #24_7, #bonghit, and #dude. These chat- rooms are populated 24/7 by hundreds of people from around the globe. Tens of thousands of lines of text are considered each day.&nbsp;</p>
+
+----
+
+Tags: installation, electronics

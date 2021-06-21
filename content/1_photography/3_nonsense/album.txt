@@ -1,0 +1,24 @@
+Title: Nonsense
+
+----
+
+Cover:
+
+- >
+  4_nateharrison-lines-width-1080px-gigapixel.jpeg
+
+----
+
+Headline: Nonsense nor Sensibility
+
+----
+
+Subheadline: 512 pages, 8.6x14.5" when open paper, pasteboard, glue, linen thread, book cloth
+
+----
+
+Text: <p>The text of&nbsp;<em>Nonsense nor Sensibility&nbsp;</em>was generated using Stylometric analysis. Stylometry is an analysis of linguistic style typically used to attribute text to famous authors. For this piece the analysis was inverted in order to produce new text with a 99% chance of having been written by Jane Austen. The synthetic text was broken into appropriate paragraphs and chapters, printed, and bound into a book. Despite all this validation, the 1024 pages of&nbsp;<em>Nonsense nor Sensibility&nbsp;</em>remain wholly unreadable.&nbsp;</p>
+
+----
+
+Tags: stylometry, Jane Austen, books, installation

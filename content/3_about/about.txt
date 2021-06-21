@@ -1,0 +1,44 @@
+Title: douglas goodwin
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["orphans_9-very_compressed-width-1080px-gigapixel.jpeg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"34d9d36b-a0ff-47dd-b4ea-5ed3a24db990","isHidden":false,"type":"image"}],"id":"593e6783-7bc4-483c-91f7-ac25ab6a4f80","width":"1\/2"},{"blocks":[{"content":{"text":"Early adopter. Web pioneer. Connoisseur of emerging technologies. Appreciator of systems. Collector of analog devices. Teacher of technology, high and low. Douglas Goodwin&nbsp;is a technologist investigating the mechanisms by which language and other technologies mediate our perception of reality.","citation":""},"id":"f5e90755-aa8f-4ce8-8444-2ac89f24ee65","isHidden":false,"type":"quote"},{"content":{"text":"<p>Goodwin's work has shown at many venues including the Toronto International Film Festival, Harvard Film Archive, Ambulante, London Film Festival, Pacific Film Archive, Frankfurt Film Museum, SIGGRAPH, REDCAT, the Orphans Film Symposium,&nbsp;the Courtisane Festival, Eyebeam, and the Ann Arbor Film Festival.&nbsp;\"Lossless,\" a collaboration with Rebeca Baron, was the first digital work to enter the collection of the George Eastman House in Rochester, NY. <\/p><p>He currently serves as the first Fletcher Jones Foundation Scholar in&nbsp;Computation and a Visiting Assistant Professor of Media&nbsp;Studies&nbsp;at Scripps College.<\/p>"},"id":"d8f7f9f1-c827-449d-904c-97763e4f170f","isHidden":false,"type":"text"}],"id":"0f12dfab-ae26-47fc-95e1-7516a4955199","width":"1\/2"}],"id":"cf9d8d69-3236-4b4f-a7fb-93e0b4a081e7"}]
+
+----
+
+Address: cairn.com <br />los angeles <br />USA
+
+----
+
+Email: contact@cairn.com
+
+----
+
+Phone: 
+
+----
+
+Social:
+
+- 
+  platform: Twitter
+  url: https://twitter.com/dgoodwin
+- 
+  platform: Instagram
+  url: https://instagram.com/douglasrgoodwin
+- 
+  platform: GitHub
+  url: https://github.com/douglasgoodwin
+
+----
+
+Text: <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way. On her way she met a copy.</p>
+
+----
+
+Contact:
+
+Kirby Magazine Inc.
+Sesamestreet 1
+Gotham City
+USA

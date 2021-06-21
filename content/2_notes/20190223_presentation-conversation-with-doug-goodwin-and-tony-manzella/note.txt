@@ -1,0 +1,25 @@
+Title: Presentation: Conversation with Doug Goodwin And Tony Manzella
+
+----
+
+Text: [{"content":{"text":"A conversation by Doug Goodwin and Tony Manzella followed by hands-on experimentation of color relationships.","citation":"Reading Ours"},"id":"a647447a-4226-4fe8-824e-85663f7a80f2","isHidden":false,"type":"quote"},{"content":{"text":"<p>A conversation by Doug Goodwin and Tony Manzella followed by hands-on experimentation of color relationships.<br><br>Explore color through the lens of quantum mechanics, additive and subtractive color, emotion and color space, and question how it defines the world around us. How do we balance creative thinking with the standards necessary for order and production? How do we face the constraints of the medium? Is making a book more like aesthetic reproduction or creating something new?<\/p>"},"id":"d41e6071-ab41-42fe-b51d-a4b9c2e308dc","isHidden":false,"type":"text"},{"content":{"images":["cup-o-cyan.jpg","cup-o-yellow.jpg","cup-o-magenta.jpg","cup-o-orange.jpg","cup-o-red.jpg"]},"id":"328b8de3-515a-4428-963c-b22f2d99630a","isHidden":false,"type":"gallery"}]
+
+----
+
+Cover: - tonymanzanella.jpeg
+
+----
+
+Date: 2019-02-23 00:00:00
+
+----
+
+Author: 
+
+----
+
+Tags: color, workshop, conversation
+
+----
+
+Subheading: 

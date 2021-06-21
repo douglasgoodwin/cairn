@@ -1,0 +1,28 @@
+Title: Presentation: Advances In Urban Transportation Data And Information SystemsUsing Smart Farecard Data To Support Transit Network Restructuring
+
+----
+
+Text: [{"content":{"text":"<p>Presenting a paper for the TRB in Washington DC that I co-authored as part of my day job. \u201cUsing Smart Farecard Data to Support Transit Network Restructuring: Findings from Los Angeles\u201d<\/p><p><a href=\"https:\/\/annualmeeting.mytrb.org\/interactiveprogram\/Details\/11235\" rel=\"noopener noreferrer nofollow\">https:\/\/annualmeeting.mytrb.org\/interactiveprogram\/Details\/11235<\/a><\/p>"},"id":"_nEOMzN6tX","isHidden":false,"type":"text"},{"content":{"text":"<p>Recent technological innovations have changed why, when, where, and how people travel. This, along with other changes in the economy, has resulted in declining transit ridership in many U.S. metropolitan regions, including Los Angeles. It is important that transit agencies become data savvy to better align their services with customer demand in an effort to redesign a bus network that is more relevant and reflective of customer needs. This paper outlines a new data intelligence program within the Los Angeles County Metropolitan Transportation Authority (LA Metro) that will allow for data-driven decision-making in a nimble and flexible fashion. One resource available to LA Metro is their smart farecard data. The analysis of four months of data revealed that the top 5% of riders accounted over 60% of daily trips. By building heuristics to identify transfers, and by tracking riders through space and time to systematically identify home and work locations, we extracted transit trip tables by time of day and purpose. The transit trip tables were juxtaposed against trip tables generated using disaggregate anonymized cell phone data to measure transit shares and to evaluate transit competitiveness across several measures such as trip length, relative travel times (to auto), trip purpose, and time of day. Relying on observed trips as opposed to simulated model results, this paper outlines the potential of using Big Data in transit planning. This research can be replicated by agencies across the US as they combat declining ridership while competing with data-savvy technology-driven competitors.<\/p>"},"id":"52548014-b4d7-4ab7-9836-30ca3a0b4f9e","isHidden":false,"type":"text"}]
+
+----
+
+Cover:
+
+- >
+  microsoft_word_-_fy09_org_chart_book_intro_doc.jpg
+
+----
+
+Date: 2019-01-14 00:00:00
+
+----
+
+Author: 
+
+----
+
+Tags: transit, TRB
+
+----
+
+Subheading: 

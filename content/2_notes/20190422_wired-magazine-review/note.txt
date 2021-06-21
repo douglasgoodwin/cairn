@@ -1,0 +1,25 @@
+Title: Review: LA's Plan to Reboot its Bus System
+
+----
+
+Text: [{"content":{"level":"h2","text":"<strong><a href=\"https:\/\/www.wired.com\/story\/future-of-transportation-los-angeles-bus-cell-phone-data\/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">LA\u2019s Plan to Reboot Its Bus System\u2014Using Cell Phone Data<\/a><\/strong>"},"id":"88517b51-b9ca-452d-9b09-881db623a106","isHidden":false,"type":"heading"},{"content":{"text":"<strong>Ridership on the city's bus system is plummeting, so the transit agency is redesigning it\u2014with the help of location data from about 5 million cell phones.<\/strong>","citation":"Adam Rogers"},"id":"592c2be4-0f8b-46d4-9ad0-78232265005d","isHidden":false,"type":"quote"}]
+
+----
+
+Cover: 
+
+----
+
+Date: 2019-04-22 00:00:00
+
+----
+
+Author: - F8TQVjfl
+
+----
+
+Tags: los angeles, trasportation, review
+
+----
+
+Subheading: 

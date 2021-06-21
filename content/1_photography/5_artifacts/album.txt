@@ -1,0 +1,23 @@
+Title: Artifacts
+
+----
+
+Cover:
+
+- 17_artifact13.png
+
+----
+
+Headline: The first in a series of video projects about video artifacts
+
+----
+
+Subheadline: 3:14 1080P @25fps 16:9 video with sound
+
+----
+
+Text: <p>Artifact #1 is the first is a series about the perceptual systems employed in cinema. Here the interruptions between source frames have been filled in with light and color from neighboring frames. This procedure emphasizes the flow of sound and imagery we experience in the world. The abstractions revealed by this procedure happily distract us from the business of speeding cars, landscape and narrative. </p>
+
+----
+
+Tags: video, installation

@@ -1,0 +1,27 @@
+Title: Publication: Using Smart Farecard Data To Support Transit Network Restructuring
+
+----
+
+Text: [{"content":{"text":"<p><a href=\"https:\/\/www.cairn.com\/events\" rel=\"noopener noreferrer nofollow\">Pragun Vinayak<\/a>,&nbsp;<a href=\"https:\/\/www.cairn.com\/events\" rel=\"noopener noreferrer nofollow\">Zeina Wafa<\/a>,&nbsp;<a href=\"https:\/\/www.cairn.com\/events\" rel=\"noopener noreferrer nofollow\">Conan Cheung<\/a>,&nbsp;<a href=\"https:\/\/www.cairn.com\/events\" rel=\"noopener noreferrer nofollow\">Stephen Tu<\/a>,&nbsp;<a href=\"https:\/\/www.cairn.com\/events\" rel=\"noopener noreferrer nofollow\">Anurag Komanduri<\/a>,&nbsp;<a href=\"https:\/\/www.cairn.com\/events\" rel=\"noopener noreferrer nofollow\">Jon Overman<\/a>,&nbsp;<a href=\"https:\/\/www.cairn.com\/events\" rel=\"noopener noreferrer nofollow\">Doug Goodwin<\/a><\/p><p><a href=\"https:\/\/doi.org\/10.1177\/0361198119845661\" rel=\"noopener noreferrer nofollow\">https:\/\/doi.org\/10.1177\/0361198119845661<\/a><\/p>"},"id":"_MtYF6qOmq","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["10_1177_0361198119845661_pdf__page_2_of_12.jpg"],"src":"","alt":"","caption":"Los Angeles' transit lines","link":"","ratio":"","crop":"true"},"id":"_200yrtaus","isHidden":false,"type":"image"},{"content":{"level":"h3","text":"Abstract"},"id":"_9ossz5bvo","isHidden":false,"type":"heading"},{"content":{"text":"<p>Recent technological innovations have changed why, when, where, and how people travel. This, along with other changes in the economy, has resulted in declining transit ridership in many U.S. metropolitan regions, including Los Angeles. It is important that transit agencies become data savvy to better align their services with customer demand in an effort to redesign a bus network that is more relevant and reflective of customer needs. This paper outlines a new data intelligence program within the Los Angeles County Metropolitan Transportation Authority (LA Metro) that will allow for data-driven decision-making in a nimble and flexible fashion. One resource available to LA Metro is their smart farecard data. The analysis of 4 months of data revealed that the top 5% of riders accounted for over 60% of daily trips. By building heuristics to identify transfers, and by tracking riders through space and time to systematically identify home and work locations, transit trip tables by time of day and purpose were extracted. The transit trip tables were juxtaposed against trip tables generated using disaggregate anonymized cell phone data to measure transit market shares and to evaluate transit competitiveness across several measures such as trip length, travel times relative to auto, trip purpose, and time of day. Relying on observed trips as opposed to simulated model results, this paper outlines the potential of using Big Data in transit planning. This research can be replicated by agencies across the U.S. as they reverse declining ridership while competing with data-savvy technology-driven competitors.<\/p>"},"id":"_J5cUP6Q8A","isHidden":false,"type":"text"},{"content":{"images":["10_1177_0361198119845661_pdf__page_9_of_12.jpg","10_1177_0361198119845661_pdf__page_8_of_12.jpg"]},"id":"3541cf3f-1c1b-4879-ad35-049cd9d7aaa3","isHidden":false,"type":"gallery"}]
+
+----
+
+Cover: 
+
+----
+
+Date: 2019-05-12 16:00:00
+
+----
+
+Author:
+
+- F8TQVjfl
+
+----
+
+Tags: transportation, los angeles
+
+----
+
+Subheading: Our quest to the edge of nowhere
