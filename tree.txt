@@ -1,0 +1,1666 @@
+.
+├── README.md
+├── archive
+│   ├── Gemfile
+│   ├── _config.yml
+│   ├── _uploads
+│   │   ├── M.jpg
+│   │   ├── Nexus4_0001_enter-train-300x181.jpg
+│   │   ├── Nexus4_0002_detail-300x181.jpg
+│   │   ├── Nexus4_0003_check-300x181.jpg
+│   │   └── Nexus4_0004_los-angeles-300x181.jpg
+│   ├── artist-statement-winter-2011.markdown
+│   ├── contact-printing-from-monitor.markdown
+│   ├── cv-winter-2011.markdown
+│   ├── glass-creative-collective-symposium.markdown
+│   ├── lossless-signals-from-between-by-rebecca-rafferty.markdown
+│   ├── meal-inpirations.markdown
+│   ├── nonsense-nor-sensibility.markdown
+│   ├── rebeccas-introduction-glass-creative-collective-symposium-venice-ca.markdown
+│   ├── self-destructing-media.markdown
+│   ├── super-bowl-worthy.markdown
+│   ├── teaching
+│   │   ├── 2010-dirty-bits-workshop.markdown
+│   │   ├── 2010-sweet-fruit-of-cybernetics-at-calarts.markdown
+│   │   ├── all-that-glitters-final-lecture-notes.markdown
+│   │   ├── artifacts-workshop.markdown
+│   │   └── intro-to-digital-media-production-vm260b-at-emerson.markdown
+│   ├── teaching-programming-for-artists-sim376x-at-massart.markdown
+│   └── teaching.markdown
+├── assets
+│   ├── css
+│   │   ├── index.css
+│   │   ├── lightbox.css
+│   │   ├── prism.css
+│   │   └── templates
+│   │       ├── about.css
+│   │       ├── album.css
+│   │       ├── home.css
+│   │       └── note.css
+│   ├── icons
+│   │   ├── discord.svg
+│   │   ├── github.svg
+│   │   ├── instagram.svg
+│   │   └── twitter.svg
+│   └── js
+│       ├── index.js
+│       ├── lightbox.js
+│       └── prism.js
+├── composer.json
+├── content
+│   ├── 1_photography
+│   │   ├── 1_surely-austen
+│   │   │   ├── album.txt
+│   │   │   ├── austenmss_1.png
+│   │   │   ├── austenmss_1.png.txt
+│   │   │   ├── austenmss_2.png
+│   │   │   ├── austenmss_2.png.txt
+│   │   │   ├── austenmss_4.png
+│   │   │   └── austenmss_4.png.txt
+│   │   ├── 2_falling
+│   │   │   ├── 01_fm_cut_7.jpeg
+│   │   │   ├── 01_fm_cut_7.jpeg.txt
+│   │   │   ├── 1081685526.jpeg
+│   │   │   ├── 1081685526.jpeg.txt
+│   │   │   ├── 235de5fd2df6d82b.png
+│   │   │   ├── 235de5fd2df6d82b.png.txt
+│   │   │   ├── 7f38b3a25273618e.png
+│   │   │   ├── 7f38b3a25273618e.png.txt
+│   │   │   ├── 8199f9dd9e788937.png
+│   │   │   ├── 8199f9dd9e788937.png.txt
+│   │   │   ├── 84ebd722518479e.png
+│   │   │   ├── 84ebd722518479e.png.txt
+│   │   │   └── album.txt
+│   │   ├── 3_nonsense
+│   │   │   ├── 4_nateharrison-lines-width-1080px-gigapixel.jpeg
+│   │   │   ├── 4_nateharrison-lines-width-1080px-gigapixel.jpeg.txt
+│   │   │   ├── album.txt
+│   │   │   ├── nonsense_1.png
+│   │   │   ├── nonsense_1.png.txt
+│   │   │   ├── p1040459.jpeg
+│   │   │   └── p1040459.jpeg.txt
+│   │   ├── 4_lossless
+│   │   │   ├── album.txt
+│   │   │   ├── l1.png
+│   │   │   ├── l1.png.txt
+│   │   │   ├── l2.png
+│   │   │   ├── l2.png.txt
+│   │   │   ├── l3.png
+│   │   │   ├── l3.png.txt
+│   │   │   ├── l4.png
+│   │   │   ├── l4.png.txt
+│   │   │   ├── l5.png
+│   │   │   └── l5.png.txt
+│   │   ├── 5_artifacts
+│   │   │   ├── 17_artifact13.png
+│   │   │   ├── 17_artifact13.png.txt
+│   │   │   ├── 17_artifact19.png
+│   │   │   ├── 17_artifact19.png.txt
+│   │   │   ├── album.txt
+│   │   │   ├── artifact_1_12-644x320.png
+│   │   │   ├── artifact_1_12-644x320.png.txt
+│   │   │   ├── artifact_1_28.png
+│   │   │   ├── artifact_1_28.png.txt
+│   │   │   ├── artifact_1_31.png
+│   │   │   ├── artifact_1_31.png.txt
+│   │   │   ├── artifact_1_33-644x320.png
+│   │   │   ├── artifact_1_33-644x320.png.txt
+│   │   │   ├── artifact_1_5.png
+│   │   │   ├── artifact_1_5.png.txt
+│   │   │   ├── artifact_1_6.png
+│   │   │   └── artifact_1_6.png.txt
+│   │   ├── 6_kerouac
+│   │   │   ├── album.txt
+│   │   │   ├── kerouacs_ear12.png
+│   │   │   ├── kerouacs_ear12.png.txt
+│   │   │   ├── kerouacs_ear4-low_res-width-1080px-gigapixel.png
+│   │   │   └── kerouacs_ear4-low_res-width-1080px-gigapixel.png.txt
+│   │   ├── 7_archive
+│   │   │   ├── 2014-09-05-18.28.01.jpg
+│   │   │   ├── 2014-09-05-18.28.01.jpg.txt
+│   │   │   ├── 2014-09-13-14.26.03.jpg
+│   │   │   ├── 2014-09-13-14.26.03.jpg.txt
+│   │   │   ├── album.txt
+│   │   │   ├── img_1100.jpeg
+│   │   │   ├── img_1100.jpeg.txt
+│   │   │   ├── img_1179.jpeg
+│   │   │   └── img_1179.jpeg.txt
+│   │   └── photography.txt
+│   ├── 2_notes
+│   │   ├── 20150203_ambulante-screenings-in-mexico-city-artifact-1-detour-de-force-lossless-2-5
+│   │   │   ├── artifact_1_33-644x320.png
+│   │   │   ├── artifact_1_33-644x320.png.txt
+│   │   │   └── note.txt
+│   │   ├── 20150302_ambulante-cinevidencias
+│   │   │   ├── cinevidencias__proyeccion_y_platica_on_vimeo.jpg
+│   │   │   ├── cinevidencias__proyeccion_y_platica_on_vimeo.jpg.txt
+│   │   │   └── note.txt
+│   │   ├── 20160229_poetic-research-bureau-sea-5-ideoplasty
+│   │   │   ├── note.txt
+│   │   │   ├── sea__5___ideoplasty__w__rebecca_baron__gaelle_cintre__harry_dodge__doug_go.jpg
+│   │   │   └── sea__5___ideoplasty__w__rebecca_baron__gaelle_cintre__harry_dodge__doug_go.jpg.txt
+│   │   ├── 20170509_counter-inaugural-clockshop
+│   │   │   ├── amazon_logo.jpg
+│   │   │   ├── amazon_logo.jpg.txt
+│   │   │   ├── blackhat-whitehat.png
+│   │   │   ├── blackhat-whitehat.png.txt
+│   │   │   ├── blackhat.png
+│   │   │   ├── blackhat.png.txt
+│   │   │   ├── brazil_tuttle.png
+│   │   │   ├── brazil_tuttle.png.txt
+│   │   │   ├── cappuccino_chiang_mai.jpg
+│   │   │   ├── cappuccino_chiang_mai.jpg.txt
+│   │   │   ├── ci-dgoodwin-email-22-1434x0-c-f.png
+│   │   │   ├── ci-dgoodwin-email-22-1434x0-c-f.png.txt
+│   │   │   ├── email.png
+│   │   │   ├── email.png.txt
+│   │   │   ├── emailheader.jpg
+│   │   │   ├── emailheader.jpg.txt
+│   │   │   ├── emailheader_notls.png
+│   │   │   ├── emailheader_notls.png.txt
+│   │   │   ├── emailheader_withtls.png
+│   │   │   ├── emailheader_withtls.png.txt
+│   │   │   ├── eye-pyramid.jpg
+│   │   │   ├── eye-pyramid.jpg.txt
+│   │   │   ├── facebook-birthday.jpg
+│   │   │   ├── facebook-birthday.jpg.txt
+│   │   │   ├── facebook_finishes_its__secret_conversations__encryption_rollout_to_messenger_users___wired.jpg
+│   │   │   ├── facebook_finishes_its__secret_conversations__encryption_rollout_to_messenger_users___wired.jpg.txt
+│   │   │   ├── hellokittyfoam.jpg
+│   │   │   ├── hellokittyfoam.jpg.txt
+│   │   │   ├── honeymap.jpg
+│   │   │   ├── honeymap.jpg.txt
+│   │   │   ├── johnmajor.jpg
+│   │   │   ├── johnmajor.jpg.txt
+│   │   │   ├── maxheadroom.jpg
+│   │   │   ├── maxheadroom.jpg.txt
+│   │   │   ├── mr-robot.jpg
+│   │   │   ├── mr-robot.jpg.txt
+│   │   │   ├── national-grid-bill-payment.jpg
+│   │   │   ├── national-grid-bill-payment.jpg.txt
+│   │   │   ├── national-grid-bill-payment.png
+│   │   │   ├── national-grid-bill-payment.png.txt
+│   │   │   ├── note.txt
+│   │   │   ├── on-tyranny.jpg
+│   │   │   ├── on-tyranny.jpg.txt
+│   │   │   ├── panopticon.jpg
+│   │   │   ├── panopticon.jpg.txt
+│   │   │   ├── piranesi_prison.jpg
+│   │   │   ├── piranesi_prison.jpg.txt
+│   │   │   ├── sadmac.png
+│   │   │   ├── sadmac.png.txt
+│   │   │   ├── sadmac_cropped.png
+│   │   │   ├── sadmac_cropped.png.txt
+│   │   │   ├── sbuckswifi.jpg
+│   │   │   ├── sbuckswifi.jpg.txt
+│   │   │   ├── self-portrait-auto-iphone-80673_jpeg_5_6163_744_pixels.jpg
+│   │   │   ├── self-portrait-auto-iphone-80673_jpeg_5_6163_744_pixels.jpg.txt
+│   │   │   ├── starbucks-east-blvd-charlotte.jpg
+│   │   │   ├── starbucks-east-blvd-charlotte.jpg.txt
+│   │   │   ├── starbucks-google-wifi_png_929615_pixels.jpg
+│   │   │   ├── starbucks-google-wifi_png_929615_pixels.jpg.txt
+│   │   │   ├── surveillance-cameras.jpg
+│   │   │   ├── surveillance-cameras.jpg.txt
+│   │   │   ├── themonk.jpg
+│   │   │   ├── themonk.jpg.txt
+│   │   │   ├── transmission.png
+│   │   │   ├── transmission.png.txt
+│   │   │   ├── whitehat.png
+│   │   │   └── whitehat.png.txt
+│   │   ├── 20190114_publication-advances-in-urban-transportation-data-and-information-systemsusing-smart-farecard-data-to-support-transit-network-re
+│   │   │   ├── microsoft_word_-_fy09_org_chart_book_intro_doc.jpg
+│   │   │   ├── microsoft_word_-_fy09_org_chart_book_intro_doc.jpg.txt
+│   │   │   └── note.txt
+│   │   ├── 20190223_presentation-conversation-with-doug-goodwin-and-tony-manzella
+│   │   │   ├── cup-o-cyan.jpg
+│   │   │   ├── cup-o-cyan.jpg.txt
+│   │   │   ├── cup-o-magenta.jpg
+│   │   │   ├── cup-o-magenta.jpg.txt
+│   │   │   ├── cup-o-orange.jpg
+│   │   │   ├── cup-o-orange.jpg.txt
+│   │   │   ├── cup-o-red.jpg
+│   │   │   ├── cup-o-red.jpg.txt
+│   │   │   ├── cup-o-yellow.jpg
+│   │   │   ├── cup-o-yellow.jpg.txt
+│   │   │   ├── note.txt
+│   │   │   ├── tonymanzanella.jpeg
+│   │   │   └── tonymanzanella.jpeg.txt
+│   │   ├── 20190422_wired-magazine-review
+│   │   │   ├── 2706_mass-transit_violet-reed.jpeg
+│   │   │   ├── 2706_mass-transit_violet-reed.jpeg.txt
+│   │   │   ├── himalaya.jpg
+│   │   │   ├── himalaya.jpg.txt
+│   │   │   └── note.txt
+│   │   ├── 20190512_publication-using-smart-farecard-data-to-support-transit-network-restructuring
+│   │   │   ├── 10_1177_0361198119845661_pdf__page_2_of_12.jpg
+│   │   │   ├── 10_1177_0361198119845661_pdf__page_2_of_12.jpg.txt
+│   │   │   ├── 10_1177_0361198119845661_pdf__page_8_of_12.jpg
+│   │   │   ├── 10_1177_0361198119845661_pdf__page_8_of_12.jpg.txt
+│   │   │   ├── 10_1177_0361198119845661_pdf__page_9_of_12.jpg
+│   │   │   ├── 10_1177_0361198119845661_pdf__page_9_of_12.jpg.txt
+│   │   │   └── note.txt
+│   │   ├── 20210428_presentation-interdisciplinary-data-science-faculty-panel
+│   │   │   ├── note.txt
+│   │   │   ├── ocac_poster_v1d.png
+│   │   │   ├── ocac_poster_v1d.png.txt
+│   │   │   ├── ocac_poster_v1d_png.jpg
+│   │   │   ├── ocac_poster_v1d_png.jpg.txt
+│   │   │   ├── ocac_presentation_md.jpg
+│   │   │   └── ocac_presentation_md.jpg.txt
+│   │   ├── _drafts
+│   │   │   └── press-when-seeing-is-not-believing-douglas-goodwin-fletcher-jones-scholar-in-computation-on-the-image-in-the-digital-age
+│   │   │       └── note.txt
+│   │   └── notes.txt
+│   ├── 3_about
+│   │   ├── about.txt
+│   │   ├── orphans_9-very_compressed-width-1080px-gigapixel.jpeg
+│   │   ├── orphans_9-very_compressed-width-1080px-gigapixel.jpeg.txt
+│   │   ├── orphans_9.jpeg
+│   │   ├── orphans_9.jpeg.txt
+│   │   ├── table.jpg
+│   │   ├── table.jpg.txt
+│   │   ├── team.jpg
+│   │   ├── team.jpg.txt
+│   │   ├── writing.jpg
+│   │   └── writing.jpg.txt
+│   ├── error
+│   │   └── error.txt
+│   ├── home
+│   │   └── home.txt
+│   ├── sandbox
+│   │   └── sandbox.txt
+│   └── site.txt
+├── favicon.ico
+├── index.php
+├── kirby
+│   ├── SECURITY.md
+│   ├── assets
+│   │   └── whoops.css
+│   ├── bootstrap.php
+│   ├── cacert.pem
+│   ├── composer.json
+│   ├── composer.lock
+│   ├── config
+│   │   ├── aliases.php
+│   │   ├── api
+│   │   │   ├── authentication.php
+│   │   │   ├── collections.php
+│   │   │   ├── models
+│   │   │   │   ├── File.php
+│   │   │   │   ├── FileBlueprint.php
+│   │   │   │   ├── FileVersion.php
+│   │   │   │   ├── Language.php
+│   │   │   │   ├── Page.php
+│   │   │   │   ├── PageBlueprint.php
+│   │   │   │   ├── Role.php
+│   │   │   │   ├── Site.php
+│   │   │   │   ├── SiteBlueprint.php
+│   │   │   │   ├── System.php
+│   │   │   │   ├── Translation.php
+│   │   │   │   ├── User.php
+│   │   │   │   └── UserBlueprint.php
+│   │   │   ├── models.php
+│   │   │   ├── routes
+│   │   │   │   ├── auth.php
+│   │   │   │   ├── files.php
+│   │   │   │   ├── languages.php
+│   │   │   │   ├── lock.php
+│   │   │   │   ├── pages.php
+│   │   │   │   ├── roles.php
+│   │   │   │   ├── site.php
+│   │   │   │   ├── system.php
+│   │   │   │   ├── translations.php
+│   │   │   │   └── users.php
+│   │   │   └── routes.php
+│   │   ├── blocks
+│   │   │   ├── code
+│   │   │   │   ├── code.php
+│   │   │   │   └── code.yml
+│   │   │   ├── gallery
+│   │   │   │   ├── gallery.php
+│   │   │   │   └── gallery.yml
+│   │   │   ├── heading
+│   │   │   │   ├── heading.php
+│   │   │   │   └── heading.yml
+│   │   │   ├── image
+│   │   │   │   ├── image.php
+│   │   │   │   └── image.yml
+│   │   │   ├── list
+│   │   │   │   ├── list.php
+│   │   │   │   └── list.yml
+│   │   │   ├── markdown
+│   │   │   │   ├── markdown.php
+│   │   │   │   └── markdown.yml
+│   │   │   ├── quote
+│   │   │   │   ├── quote.php
+│   │   │   │   └── quote.yml
+│   │   │   ├── table
+│   │   │   │   └── table.yml
+│   │   │   ├── text
+│   │   │   │   ├── text.php
+│   │   │   │   └── text.yml
+│   │   │   └── video
+│   │   │       ├── video.php
+│   │   │       └── video.yml
+│   │   ├── blueprints
+│   │   │   ├── blocks
+│   │   │   │   ├── code.yml
+│   │   │   │   ├── heading.yml
+│   │   │   │   ├── image.yml
+│   │   │   │   ├── quote.yml
+│   │   │   │   ├── table.yml
+│   │   │   │   ├── text.yml
+│   │   │   │   └── video.yml
+│   │   │   ├── files
+│   │   │   │   └── default.yml
+│   │   │   ├── pages
+│   │   │   │   └── default.yml
+│   │   │   └── site.yml
+│   │   ├── blueprints.php
+│   │   ├── components.php
+│   │   ├── fields
+│   │   │   ├── checkboxes.php
+│   │   │   ├── date.php
+│   │   │   ├── email.php
+│   │   │   ├── files.php
+│   │   │   ├── gap.php
+│   │   │   ├── headline.php
+│   │   │   ├── hidden.php
+│   │   │   ├── info.php
+│   │   │   ├── line.php
+│   │   │   ├── list.php
+│   │   │   ├── mixins
+│   │   │   │   ├── datetime.php
+│   │   │   │   ├── filepicker.php
+│   │   │   │   ├── min.php
+│   │   │   │   ├── options.php
+│   │   │   │   ├── pagepicker.php
+│   │   │   │   ├── picker.php
+│   │   │   │   ├── upload.php
+│   │   │   │   └── userpicker.php
+│   │   │   ├── multiselect.php
+│   │   │   ├── number.php
+│   │   │   ├── pages.php
+│   │   │   ├── radio.php
+│   │   │   ├── range.php
+│   │   │   ├── select.php
+│   │   │   ├── structure.php
+│   │   │   ├── tags.php
+│   │   │   ├── tel.php
+│   │   │   ├── text.php
+│   │   │   ├── textarea.php
+│   │   │   ├── time.php
+│   │   │   ├── toggle.php
+│   │   │   ├── url.php
+│   │   │   ├── users.php
+│   │   │   └── writer.php
+│   │   ├── fields.php
+│   │   ├── helpers.php
+│   │   ├── methods.php
+│   │   ├── presets
+│   │   │   ├── files.php
+│   │   │   ├── page.php
+│   │   │   └── pages.php
+│   │   ├── roots.php
+│   │   ├── routes.php
+│   │   ├── sections
+│   │   │   ├── fields.php
+│   │   │   ├── files.php
+│   │   │   ├── info.php
+│   │   │   ├── mixins
+│   │   │   │   ├── empty.php
+│   │   │   │   ├── headline.php
+│   │   │   │   ├── help.php
+│   │   │   │   ├── layout.php
+│   │   │   │   ├── max.php
+│   │   │   │   ├── min.php
+│   │   │   │   ├── pagination.php
+│   │   │   │   └── parent.php
+│   │   │   └── pages.php
+│   │   ├── setup.php
+│   │   ├── snippets.php
+│   │   ├── tags.php
+│   │   ├── templates
+│   │   │   └── emails
+│   │   │       └── auth
+│   │   │           ├── login.php
+│   │   │           └── password-reset.php
+│   │   ├── templates.php
+│   │   └── urls.php
+│   ├── dependencies
+│   │   ├── parsedown
+│   │   │   └── Parsedown.php
+│   │   └── parsedown-extra
+│   │       └── ParsedownExtra.php
+│   ├── i18n
+│   │   ├── rules
+│   │   │   ├── LICENSE
+│   │   │   ├── ar.json
+│   │   │   ├── az.json
+│   │   │   ├── bg.json
+│   │   │   ├── cs.json
+│   │   │   ├── da.json
+│   │   │   ├── de.json
+│   │   │   ├── el.json
+│   │   │   ├── eo.json
+│   │   │   ├── et.json
+│   │   │   ├── fa.json
+│   │   │   ├── fi.json
+│   │   │   ├── fr.json
+│   │   │   ├── hi.json
+│   │   │   ├── hr.json
+│   │   │   ├── hu.json
+│   │   │   ├── hy.json
+│   │   │   ├── it.json
+│   │   │   ├── ja.json
+│   │   │   ├── ka.json
+│   │   │   ├── ko.json
+│   │   │   ├── lt.json
+│   │   │   ├── lv.json
+│   │   │   ├── mk.json
+│   │   │   ├── my.json
+│   │   │   ├── nb.json
+│   │   │   ├── pl.json
+│   │   │   ├── pt_BR.json
+│   │   │   ├── rm.json
+│   │   │   ├── ru.json
+│   │   │   ├── sr.json
+│   │   │   ├── sv_SE.json
+│   │   │   ├── tr.json
+│   │   │   ├── uk.json
+│   │   │   ├── vi.json
+│   │   │   └── zh.json
+│   │   └── translations
+│   │       ├── bg.json
+│   │       ├── ca.json
+│   │       ├── cs.json
+│   │       ├── da.json
+│   │       ├── de.json
+│   │       ├── el.json
+│   │       ├── en.json
+│   │       ├── es_419.json
+│   │       ├── es_ES.json
+│   │       ├── fa.json
+│   │       ├── fi.json
+│   │       ├── fr.json
+│   │       ├── hu.json
+│   │       ├── id.json
+│   │       ├── it.json
+│   │       ├── ko.json
+│   │       ├── lt.json
+│   │       ├── nb.json
+│   │       ├── nl.json
+│   │       ├── pl.json
+│   │       ├── pt_BR.json
+│   │       ├── pt_PT.json
+│   │       ├── ru.json
+│   │       ├── sk.json
+│   │       ├── sv_SE.json
+│   │       └── tr.json
+│   ├── kirby.pub
+│   ├── panel
+│   │   └── dist
+│   │       ├── apple-touch-icon.png
+│   │       ├── css
+│   │       │   └── app.css
+│   │       ├── favicon.png
+│   │       ├── favicon.svg
+│   │       ├── img
+│   │       │   └── icons.svg
+│   │       └── js
+│   │           ├── app.js
+│   │           ├── plugins.js
+│   │           └── vendor.js
+│   ├── router.php
+│   ├── src
+│   │   ├── Api
+│   │   │   ├── Api.php
+│   │   │   ├── Collection.php
+│   │   │   └── Model.php
+│   │   ├── Cache
+│   │   │   ├── ApcuCache.php
+│   │   │   ├── Cache.php
+│   │   │   ├── FileCache.php
+│   │   │   ├── MemCached.php
+│   │   │   ├── MemoryCache.php
+│   │   │   ├── NullCache.php
+│   │   │   └── Value.php
+│   │   ├── Cms
+│   │   │   ├── Api.php
+│   │   │   ├── App.php
+│   │   │   ├── AppCaches.php
+│   │   │   ├── AppErrors.php
+│   │   │   ├── AppPlugins.php
+│   │   │   ├── AppTranslations.php
+│   │   │   ├── AppUsers.php
+│   │   │   ├── Asset.php
+│   │   │   ├── Auth
+│   │   │   │   ├── Challenge.php
+│   │   │   │   ├── EmailChallenge.php
+│   │   │   │   └── Status.php
+│   │   │   ├── Auth.php
+│   │   │   ├── Block.php
+│   │   │   ├── BlockConverter.php
+│   │   │   ├── Blocks.php
+│   │   │   ├── Blueprint.php
+│   │   │   ├── Collection.php
+│   │   │   ├── Collections.php
+│   │   │   ├── Content.php
+│   │   │   ├── ContentLock.php
+│   │   │   ├── ContentLocks.php
+│   │   │   ├── ContentTranslation.php
+│   │   │   ├── Dir.php
+│   │   │   ├── Email.php
+│   │   │   ├── Event.php
+│   │   │   ├── Field.php
+│   │   │   ├── Fieldset.php
+│   │   │   ├── Fieldsets.php
+│   │   │   ├── File.php
+│   │   │   ├── FileActions.php
+│   │   │   ├── FileBlueprint.php
+│   │   │   ├── FileFoundation.php
+│   │   │   ├── FileModifications.php
+│   │   │   ├── FilePermissions.php
+│   │   │   ├── FilePicker.php
+│   │   │   ├── FileRules.php
+│   │   │   ├── FileVersion.php
+│   │   │   ├── Filename.php
+│   │   │   ├── Files.php
+│   │   │   ├── Form.php
+│   │   │   ├── HasChildren.php
+│   │   │   ├── HasFiles.php
+│   │   │   ├── HasMethods.php
+│   │   │   ├── HasSiblings.php
+│   │   │   ├── Html.php
+│   │   │   ├── Ingredients.php
+│   │   │   ├── Item.php
+│   │   │   ├── Items.php
+│   │   │   ├── KirbyTag.php
+│   │   │   ├── KirbyTags.php
+│   │   │   ├── Language.php
+│   │   │   ├── LanguageRouter.php
+│   │   │   ├── LanguageRoutes.php
+│   │   │   ├── LanguageRules.php
+│   │   │   ├── Languages.php
+│   │   │   ├── Layout.php
+│   │   │   ├── LayoutColumn.php
+│   │   │   ├── LayoutColumns.php
+│   │   │   ├── Layouts.php
+│   │   │   ├── Media.php
+│   │   │   ├── Model.php
+│   │   │   ├── ModelPermissions.php
+│   │   │   ├── ModelWithContent.php
+│   │   │   ├── Nest.php
+│   │   │   ├── NestCollection.php
+│   │   │   ├── NestObject.php
+│   │   │   ├── Page.php
+│   │   │   ├── PageActions.php
+│   │   │   ├── PageBlueprint.php
+│   │   │   ├── PagePermissions.php
+│   │   │   ├── PagePicker.php
+│   │   │   ├── PageRules.php
+│   │   │   ├── PageSiblings.php
+│   │   │   ├── Pages.php
+│   │   │   ├── Pagination.php
+│   │   │   ├── Panel.php
+│   │   │   ├── PanelPlugins.php
+│   │   │   ├── Permissions.php
+│   │   │   ├── Picker.php
+│   │   │   ├── Plugin.php
+│   │   │   ├── PluginAssets.php
+│   │   │   ├── R.php
+│   │   │   ├── Responder.php
+│   │   │   ├── Response.php
+│   │   │   ├── Role.php
+│   │   │   ├── Roles.php
+│   │   │   ├── S.php
+│   │   │   ├── Search.php
+│   │   │   ├── Section.php
+│   │   │   ├── Site.php
+│   │   │   ├── SiteActions.php
+│   │   │   ├── SiteBlueprint.php
+│   │   │   ├── SitePermissions.php
+│   │   │   ├── SiteRules.php
+│   │   │   ├── Structure.php
+│   │   │   ├── StructureObject.php
+│   │   │   ├── System.php
+│   │   │   ├── Template.php
+│   │   │   ├── Translation.php
+│   │   │   ├── Translations.php
+│   │   │   ├── Url.php
+│   │   │   ├── User.php
+│   │   │   ├── UserActions.php
+│   │   │   ├── UserBlueprint.php
+│   │   │   ├── UserPermissions.php
+│   │   │   ├── UserPicker.php
+│   │   │   ├── UserRules.php
+│   │   │   ├── Users.php
+│   │   │   └── Visitor.php
+│   │   ├── Data
+│   │   │   ├── Data.php
+│   │   │   ├── Handler.php
+│   │   │   ├── Json.php
+│   │   │   ├── PHP.php
+│   │   │   ├── Txt.php
+│   │   │   ├── Xml.php
+│   │   │   └── Yaml.php
+│   │   ├── Database
+│   │   │   ├── Database.php
+│   │   │   ├── Db.php
+│   │   │   ├── Query.php
+│   │   │   ├── Sql
+│   │   │   │   ├── Mysql.php
+│   │   │   │   └── Sqlite.php
+│   │   │   └── Sql.php
+│   │   ├── Email
+│   │   │   ├── Body.php
+│   │   │   ├── Email.php
+│   │   │   └── PHPMailer.php
+│   │   ├── Exception
+│   │   │   ├── BadMethodCallException.php
+│   │   │   ├── DuplicateException.php
+│   │   │   ├── ErrorPageException.php
+│   │   │   ├── Exception.php
+│   │   │   ├── InvalidArgumentException.php
+│   │   │   ├── LogicException.php
+│   │   │   ├── NotFoundException.php
+│   │   │   └── PermissionException.php
+│   │   ├── Form
+│   │   │   ├── Field
+│   │   │   │   ├── BlocksField.php
+│   │   │   │   └── LayoutField.php
+│   │   │   ├── Field.php
+│   │   │   ├── FieldClass.php
+│   │   │   ├── Fields.php
+│   │   │   ├── Form.php
+│   │   │   ├── Mixin
+│   │   │   │   ├── EmptyState.php
+│   │   │   │   ├── Max.php
+│   │   │   │   └── Min.php
+│   │   │   ├── Options.php
+│   │   │   ├── OptionsApi.php
+│   │   │   ├── OptionsQuery.php
+│   │   │   └── Validations.php
+│   │   ├── Http
+│   │   │   ├── Cookie.php
+│   │   │   ├── Exceptions
+│   │   │   │   └── NextRouteException.php
+│   │   │   ├── Header.php
+│   │   │   ├── Idn.php
+│   │   │   ├── Params.php
+│   │   │   ├── Path.php
+│   │   │   ├── Query.php
+│   │   │   ├── Remote.php
+│   │   │   ├── Request
+│   │   │   │   ├── Auth
+│   │   │   │   │   ├── BasicAuth.php
+│   │   │   │   │   └── BearerAuth.php
+│   │   │   │   ├── Body.php
+│   │   │   │   ├── Data.php
+│   │   │   │   ├── Files.php
+│   │   │   │   └── Query.php
+│   │   │   ├── Request.php
+│   │   │   ├── Response.php
+│   │   │   ├── Route.php
+│   │   │   ├── Router.php
+│   │   │   ├── Server.php
+│   │   │   ├── Uri.php
+│   │   │   ├── Url.php
+│   │   │   └── Visitor.php
+│   │   ├── Image
+│   │   │   ├── Camera.php
+│   │   │   ├── Darkroom
+│   │   │   │   ├── GdLib.php
+│   │   │   │   └── ImageMagick.php
+│   │   │   ├── Darkroom.php
+│   │   │   ├── Dimensions.php
+│   │   │   ├── Exif.php
+│   │   │   ├── Image.php
+│   │   │   └── Location.php
+│   │   ├── Parsley
+│   │   │   ├── Element.php
+│   │   │   ├── Inline.php
+│   │   │   ├── Parsley.php
+│   │   │   ├── Schema
+│   │   │   │   ├── Blocks.php
+│   │   │   │   └── Plain.php
+│   │   │   └── Schema.php
+│   │   ├── Sane
+│   │   │   ├── Handler.php
+│   │   │   ├── Sane.php
+│   │   │   ├── Svg.php
+│   │   │   ├── Svgz.php
+│   │   │   └── Xml.php
+│   │   ├── Session
+│   │   │   ├── AutoSession.php
+│   │   │   ├── FileSessionStore.php
+│   │   │   ├── Session.php
+│   │   │   ├── SessionData.php
+│   │   │   ├── SessionStore.php
+│   │   │   └── Sessions.php
+│   │   ├── Text
+│   │   │   ├── KirbyTag.php
+│   │   │   ├── KirbyTags.php
+│   │   │   ├── Markdown.php
+│   │   │   └── SmartyPants.php
+│   │   └── Toolkit
+│   │       ├── A.php
+│   │       ├── Collection.php
+│   │       ├── Component.php
+│   │       ├── Config.php
+│   │       ├── Controller.php
+│   │       ├── Dir.php
+│   │       ├── Escape.php
+│   │       ├── F.php
+│   │       ├── Facade.php
+│   │       ├── File.php
+│   │       ├── Html.php
+│   │       ├── I18n.php
+│   │       ├── Iterator.php
+│   │       ├── Locale.php
+│   │       ├── Mime.php
+│   │       ├── Obj.php
+│   │       ├── Pagination.php
+│   │       ├── Properties.php
+│   │       ├── Query.php
+│   │       ├── Silo.php
+│   │       ├── Str.php
+│   │       ├── Tpl.php
+│   │       ├── V.php
+│   │       ├── View.php
+│   │       └── Xml.php
+│   ├── vendor
+│   │   ├── autoload.php
+│   │   ├── claviska
+│   │   │   └── simpleimage
+│   │   │       ├── LICENSE.md
+│   │   │       ├── composer.json
+│   │   │       └── src
+│   │   │           └── claviska
+│   │   │               └── SimpleImage.php
+│   │   ├── composer
+│   │   │   ├── ClassLoader.php
+│   │   │   ├── InstalledVersions.php
+│   │   │   ├── LICENSE
+│   │   │   ├── autoload_classmap.php
+│   │   │   ├── autoload_files.php
+│   │   │   ├── autoload_namespaces.php
+│   │   │   ├── autoload_psr4.php
+│   │   │   ├── autoload_real.php
+│   │   │   ├── autoload_static.php
+│   │   │   ├── installed.json
+│   │   │   └── installed.php
+│   │   ├── filp
+│   │   │   └── whoops
+│   │   │       ├── LICENSE.md
+│   │   │       ├── composer.json
+│   │   │       └── src
+│   │   │           └── Whoops
+│   │   │               ├── Exception
+│   │   │               │   ├── ErrorException.php
+│   │   │               │   ├── Formatter.php
+│   │   │               │   ├── Frame.php
+│   │   │               │   ├── FrameCollection.php
+│   │   │               │   └── Inspector.php
+│   │   │               ├── Handler
+│   │   │               │   ├── CallbackHandler.php
+│   │   │               │   ├── Handler.php
+│   │   │               │   ├── HandlerInterface.php
+│   │   │               │   ├── JsonResponseHandler.php
+│   │   │               │   ├── PlainTextHandler.php
+│   │   │               │   ├── PrettyPageHandler.php
+│   │   │               │   └── XmlResponseHandler.php
+│   │   │               ├── Resources
+│   │   │               │   ├── css
+│   │   │               │   │   └── whoops.base.css
+│   │   │               │   ├── js
+│   │   │               │   │   ├── clipboard.min.js
+│   │   │               │   │   ├── prettify.min.js
+│   │   │               │   │   ├── whoops.base.js
+│   │   │               │   │   └── zepto.min.js
+│   │   │               │   └── views
+│   │   │               │       ├── env_details.html.php
+│   │   │               │       ├── frame_code.html.php
+│   │   │               │       ├── frame_list.html.php
+│   │   │               │       ├── frames_container.html.php
+│   │   │               │       ├── frames_description.html.php
+│   │   │               │       ├── header.html.php
+│   │   │               │       ├── header_outer.html.php
+│   │   │               │       ├── layout.html.php
+│   │   │               │       ├── panel_details.html.php
+│   │   │               │       ├── panel_details_outer.html.php
+│   │   │               │       ├── panel_left.html.php
+│   │   │               │       └── panel_left_outer.html.php
+│   │   │               ├── Run.php
+│   │   │               ├── RunInterface.php
+│   │   │               └── Util
+│   │   │                   ├── HtmlDumperOutput.php
+│   │   │                   ├── Misc.php
+│   │   │                   ├── SystemFacade.php
+│   │   │                   └── TemplateHelper.php
+│   │   ├── laminas
+│   │   │   ├── laminas-escaper
+│   │   │   │   ├── COPYRIGHT.md
+│   │   │   │   ├── LICENSE.md
+│   │   │   │   ├── composer.json
+│   │   │   │   └── src
+│   │   │   │       ├── Escaper.php
+│   │   │   │       └── Exception
+│   │   │   │           ├── ExceptionInterface.php
+│   │   │   │           ├── InvalidArgumentException.php
+│   │   │   │           └── RuntimeException.php
+│   │   │   └── laminas-zendframework-bridge
+│   │   │       ├── COPYRIGHT.md
+│   │   │       ├── LICENSE.md
+│   │   │       ├── composer.json
+│   │   │       ├── config
+│   │   │       │   └── replacements.php
+│   │   │       └── src
+│   │   │           ├── Autoloader.php
+│   │   │           ├── ConfigPostProcessor.php
+│   │   │           ├── Module.php
+│   │   │           ├── Replacements.php
+│   │   │           ├── RewriteRules.php
+│   │   │           └── autoload.php
+│   │   ├── league
+│   │   │   └── color-extractor
+│   │   │       ├── LICENSE
+│   │   │       ├── composer.json
+│   │   │       └── src
+│   │   │           └── League
+│   │   │               └── ColorExtractor
+│   │   │                   ├── Color.php
+│   │   │                   ├── ColorExtractor.php
+│   │   │                   └── Palette.php
+│   │   ├── michelf
+│   │   │   └── php-smartypants
+│   │   │       ├── License.md
+│   │   │       ├── Michelf
+│   │   │       │   ├── SmartyPants.inc.php
+│   │   │       │   ├── SmartyPants.php
+│   │   │       │   ├── SmartyPantsTypographer.inc.php
+│   │   │       │   └── SmartyPantsTypographer.php
+│   │   │       └── composer.json
+│   │   ├── mustangostang
+│   │   │   └── spyc
+│   │   │       ├── COPYING
+│   │   │       ├── Spyc.php
+│   │   │       └── composer.json
+│   │   ├── phpmailer
+│   │   │   └── phpmailer
+│   │   │       ├── LICENSE
+│   │   │       ├── composer.json
+│   │   │       ├── get_oauth_token.php
+│   │   │       ├── language
+│   │   │       │   ├── phpmailer.lang-af.php
+│   │   │       │   ├── phpmailer.lang-ar.php
+│   │   │       │   ├── phpmailer.lang-az.php
+│   │   │       │   ├── phpmailer.lang-ba.php
+│   │   │       │   ├── phpmailer.lang-be.php
+│   │   │       │   ├── phpmailer.lang-bg.php
+│   │   │       │   ├── phpmailer.lang-ca.php
+│   │   │       │   ├── phpmailer.lang-ch.php
+│   │   │       │   ├── phpmailer.lang-cs.php
+│   │   │       │   ├── phpmailer.lang-da.php
+│   │   │       │   ├── phpmailer.lang-de.php
+│   │   │       │   ├── phpmailer.lang-el.php
+│   │   │       │   ├── phpmailer.lang-eo.php
+│   │   │       │   ├── phpmailer.lang-es.php
+│   │   │       │   ├── phpmailer.lang-et.php
+│   │   │       │   ├── phpmailer.lang-fa.php
+│   │   │       │   ├── phpmailer.lang-fi.php
+│   │   │       │   ├── phpmailer.lang-fo.php
+│   │   │       │   ├── phpmailer.lang-fr.php
+│   │   │       │   ├── phpmailer.lang-gl.php
+│   │   │       │   ├── phpmailer.lang-he.php
+│   │   │       │   ├── phpmailer.lang-hi.php
+│   │   │       │   ├── phpmailer.lang-hr.php
+│   │   │       │   ├── phpmailer.lang-hu.php
+│   │   │       │   ├── phpmailer.lang-hy.php
+│   │   │       │   ├── phpmailer.lang-id.php
+│   │   │       │   ├── phpmailer.lang-it.php
+│   │   │       │   ├── phpmailer.lang-ja.php
+│   │   │       │   ├── phpmailer.lang-ka.php
+│   │   │       │   ├── phpmailer.lang-ko.php
+│   │   │       │   ├── phpmailer.lang-lt.php
+│   │   │       │   ├── phpmailer.lang-lv.php
+│   │   │       │   ├── phpmailer.lang-mg.php
+│   │   │       │   ├── phpmailer.lang-ms.php
+│   │   │       │   ├── phpmailer.lang-nb.php
+│   │   │       │   ├── phpmailer.lang-nl.php
+│   │   │       │   ├── phpmailer.lang-pl.php
+│   │   │       │   ├── phpmailer.lang-pt.php
+│   │   │       │   ├── phpmailer.lang-pt_br.php
+│   │   │       │   ├── phpmailer.lang-ro.php
+│   │   │       │   ├── phpmailer.lang-ru.php
+│   │   │       │   ├── phpmailer.lang-sk.php
+│   │   │       │   ├── phpmailer.lang-sl.php
+│   │   │       │   ├── phpmailer.lang-sr.php
+│   │   │       │   ├── phpmailer.lang-sr_latn.php
+│   │   │       │   ├── phpmailer.lang-sv.php
+│   │   │       │   ├── phpmailer.lang-tl.php
+│   │   │       │   ├── phpmailer.lang-tr.php
+│   │   │       │   ├── phpmailer.lang-uk.php
+│   │   │       │   ├── phpmailer.lang-vi.php
+│   │   │       │   ├── phpmailer.lang-zh.php
+│   │   │       │   └── phpmailer.lang-zh_cn.php
+│   │   │       └── src
+│   │   │           ├── Exception.php
+│   │   │           ├── OAuth.php
+│   │   │           ├── PHPMailer.php
+│   │   │           ├── POP3.php
+│   │   │           └── SMTP.php
+│   │   ├── psr
+│   │   │   └── log
+│   │   │       ├── LICENSE
+│   │   │       ├── Psr
+│   │   │       │   └── Log
+│   │   │       │       ├── AbstractLogger.php
+│   │   │       │       ├── InvalidArgumentException.php
+│   │   │       │       ├── LogLevel.php
+│   │   │       │       ├── LoggerAwareInterface.php
+│   │   │       │       ├── LoggerAwareTrait.php
+│   │   │       │       ├── LoggerInterface.php
+│   │   │       │       ├── LoggerTrait.php
+│   │   │       │       └── NullLogger.php
+│   │   │       └── composer.json
+│   │   ├── symfony
+│   │   │   └── polyfill-mbstring
+│   │   │       ├── LICENSE
+│   │   │       ├── Mbstring.php
+│   │   │       ├── Resources
+│   │   │       │   └── unidata
+│   │   │       │       ├── lowerCase.php
+│   │   │       │       ├── titleCaseRegexp.php
+│   │   │       │       └── upperCase.php
+│   │   │       ├── bootstrap.php
+│   │   │       ├── bootstrap80.php
+│   │   │       └── composer.json
+│   │   └── true
+│   │       └── punycode
+│   │           ├── LICENSE
+│   │           ├── composer.json
+│   │           └── src
+│   │               ├── Exception
+│   │               │   ├── DomainOutOfBoundsException.php
+│   │               │   ├── LabelOutOfBoundsException.php
+│   │               │   └── OutOfBoundsException.php
+│   │               └── Punycode.php
+│   └── views
+│       ├── fatal.php
+│       ├── panel.php
+│       ├── php.php
+│       └── snippets
+│           ├── footer.php
+│           └── header.php
+├── media
+│   ├── pages
+│   │   ├── about
+│   │   │   ├── 1023463f34-1622991848
+│   │   │   │   ├── team-76x76.jpg
+│   │   │   │   └── team.jpg
+│   │   │   ├── 134e49f5b9-1622991848
+│   │   │   │   ├── writing-76x76.jpg
+│   │   │   │   └── writing.jpg
+│   │   │   ├── 6c301149df-1623003849
+│   │   │   │   ├── orphans-9-very-compressed-width-1080px-gigapixel-1408x.jpg
+│   │   │   │   ├── orphans-9-very-compressed-width-1080px-gigapixel-76x76.jpg
+│   │   │   │   └── orphans_9-very_compressed-width-1080px-gigapixel.jpeg
+│   │   │   ├── 8f2a96c998-1622991848
+│   │   │   │   ├── table-76x76.jpg
+│   │   │   │   └── table.jpg
+│   │   │   ├── ac83308beb-1623003602
+│   │   │   │   ├── orphans-9-76x76.jpg
+│   │   │   │   └── orphans_9.jpeg
+│   │   │   └── afa64b4cc6-1623003849
+│   │   │       ├── orphans-9-very-compressed-width-1080px-gigapixel-76x76.jpg
+│   │   │       └── orphans_9-very_compressed-width-1080px-gigapixel.jpeg
+│   │   ├── notes
+│   │   │   ├── ambulante-cinevidencias
+│   │   │   │   ├── 213cbaa1e6-1623020702
+│   │   │   │   │   ├── cinevidencias-proyeccion-y-platica-on-vimeo-76x76.jpg
+│   │   │   │   │   └── cinevidencias-proyeccion-y-platica-on-vimeo-864x.jpg
+│   │   │   │   ├── 43ec5b7697-1623020702
+│   │   │   │   ├── 818de57f30-1623020311
+│   │   │   │   │   ├── cinevidencias-proyeccion-y-platica-on-vimeo-1408x.jpg
+│   │   │   │   │   └── cinevidencias-proyeccion-y-platica-on-vimeo-76x76.jpg
+│   │   │   │   └── accc32dbff-1623020702
+│   │   │   │       ├── cinevidencias-proyeccion-y-platica-on-vimeo-76x76.jpg
+│   │   │   │       └── cinevidencias-proyeccion-y-platica-on-vimeo-864x.jpg
+│   │   │   ├── ambulante-screenings-in-mexico-city-artifact-1-detour-de-force-lossless-2-5
+│   │   │   │   ├── 7fd84a4a94-1623009039
+│   │   │   │   │   ├── artifact-1-33-644x320-76x76.png
+│   │   │   │   │   └── artifact-1-33-644x320-864x.png
+│   │   │   │   ├── aa077046c2-1623009039
+│   │   │   │   │   └── artifact-1-33-644x320-76x76.png
+│   │   │   │   ├── cba2d4a6a6-1623009039
+│   │   │   │   │   ├── artifact-1-33-644x320-76x76.png
+│   │   │   │   │   └── artifact-1-33-644x320-864x.png
+│   │   │   │   └── efc1cee1e0-1623009039
+│   │   │   │       └── artifact-1-33-644x320-864x.png
+│   │   │   ├── counter-inaugural-clockshop
+│   │   │   │   ├── 04d3a3a35c-1623007620
+│   │   │   │   │   └── emailheader-notls-76x76.png
+│   │   │   │   ├── 06d701364f-1623007621
+│   │   │   │   │   └── surveillance-cameras-76x76.jpg
+│   │   │   │   ├── 0d5fd5d646-1623007620
+│   │   │   │   │   └── piranesi-prison-76x76.jpg
+│   │   │   │   ├── 1fd5387e4d-1623007620
+│   │   │   │   │   └── facebook-finishes-its-secret-conversations-encryption-rollout-to-messenger-users-wired-76x76.jpg
+│   │   │   │   ├── 2a35ce1872-1623007620
+│   │   │   │   │   └── eye-pyramid-76x76.jpg
+│   │   │   │   ├── 2cca86722f-1623007620
+│   │   │   │   │   └── honeymap-76x76.jpg
+│   │   │   │   ├── 381cfcff47-1623007621
+│   │   │   │   │   └── johnmajor-76x76.jpg
+│   │   │   │   ├── 44f2d1a3fd-1623007620
+│   │   │   │   │   └── sadmac-76x76.png
+│   │   │   │   ├── 52fe6208ab-1623007620
+│   │   │   │   │   └── facebook-birthday-76x76.jpg
+│   │   │   │   ├── 541a5e8b30-1623007620
+│   │   │   │   │   └── hellokittyfoam-76x76.jpg
+│   │   │   │   ├── 541e1d1363-1623007620
+│   │   │   │   │   └── sadmac-cropped-76x76.png
+│   │   │   │   ├── 5b2f767943-1623007620
+│   │   │   │   │   └── starbucks-google-wifi-png-929615-pixels-76x76.jpg
+│   │   │   │   ├── 5bb5e7597b-1623007620
+│   │   │   │   │   └── national-grid-bill-payment-76x76.png
+│   │   │   │   ├── 60c6ab209b-1623007620
+│   │   │   │   │   └── whitehat-76x76.png
+│   │   │   │   ├── 6fb229c4e6-1623007620
+│   │   │   │   │   └── emailheader-76x76.jpg
+│   │   │   │   ├── 78b776823e-1623007620
+│   │   │   │   │   └── themonk-76x76.jpg
+│   │   │   │   ├── 7e15b6a05c-1623007621
+│   │   │   │   │   └── brazil-tuttle-76x76.png
+│   │   │   │   ├── 8612e3190a-1623007620
+│   │   │   │   │   └── maxheadroom-76x76.jpg
+│   │   │   │   ├── 884fd37bcf-1623007620
+│   │   │   │   │   └── cappuccino-chiang-mai-76x76.jpg
+│   │   │   │   ├── 9addf4514d-1623007620
+│   │   │   │   │   └── emailheader-withtls-76x76.png
+│   │   │   │   ├── 9be707e923-1623007620
+│   │   │   │   │   └── starbucks-east-blvd-charlotte-76x76.jpg
+│   │   │   │   ├── ab7f58008f-1623007620
+│   │   │   │   │   └── blackhat-whitehat-76x76.png
+│   │   │   │   ├── af2154d462-1623007620
+│   │   │   │   │   └── sbuckswifi-76x76.jpg
+│   │   │   │   ├── b08b800119-1623007620
+│   │   │   │   │   └── national-grid-bill-payment-76x76.jpg
+│   │   │   │   ├── b08e8cec72-1623007620
+│   │   │   │   │   └── panopticon-76x76.jpg
+│   │   │   │   ├── b147ffc234-1623007298
+│   │   │   │   │   ├── ci-dgoodwin-email-22-1434x0-c-f-320x180.png
+│   │   │   │   │   ├── ci-dgoodwin-email-22-1434x0-c-f-76x76.png
+│   │   │   │   │   └── ci-dgoodwin-email-22-1434x0-c-f-864x.png
+│   │   │   │   ├── b950afc466-1623007620
+│   │   │   │   │   └── amazon-logo-76x76.jpg
+│   │   │   │   ├── c3c118e515-1623007620
+│   │   │   │   │   └── transmission-76x76.png
+│   │   │   │   ├── c5c283fc89-1623007620
+│   │   │   │   │   └── blackhat-76x76.png
+│   │   │   │   ├── cb45f57482-1623007620
+│   │   │   │   │   └── email-76x76.png
+│   │   │   │   ├── d18487c634-1623007620
+│   │   │   │   │   └── on-tyranny-76x76.jpg
+│   │   │   │   ├── e0b8d8d338-1623007620
+│   │   │   │   │   └── self-portrait-auto-iphone-80673-jpeg-5-6163-744-pixels-76x76.jpg
+│   │   │   │   ├── e519905ad3-1623007620
+│   │   │   │   │   └── mr-robot-76x76.jpg
+│   │   │   │   ├── f0e57a3394-1623007201
+│   │   │   │   │   └── ci-dgoodwin-email-22-1434x0-c-f-76x76.png
+│   │   │   │   └── fea5ef1dc4-1623007298
+│   │   │   │       ├── ci-dgoodwin-email-22-1434x0-c-f-1200x600.png
+│   │   │   │       ├── ci-dgoodwin-email-22-1434x0-c-f-1408x.png
+│   │   │   │       ├── ci-dgoodwin-email-22-1434x0-c-f-320x180.png
+│   │   │   │       ├── ci-dgoodwin-email-22-1434x0-c-f-76x76.png
+│   │   │   │       ├── ci-dgoodwin-email-22-1434x0-c-f-864x.png
+│   │   │   │       └── ci-dgoodwin-email-22-1434x0-c-f.png
+│   │   │   ├── poetic-research-bureau-sea-5-ideoplasty
+│   │   │   │   ├── 7abd379578-1622991848
+│   │   │   │   │   └── desert-76x76.jpg
+│   │   │   │   ├── 80eefaeeec-1623008875
+│   │   │   │   │   ├── sea-5-ideoplasty-w-rebecca-baron-gaelle-cintre-harry-dodge-doug-go-320x180.jpg
+│   │   │   │   │   ├── sea-5-ideoplasty-w-rebecca-baron-gaelle-cintre-harry-dodge-doug-go-76x76.jpg
+│   │   │   │   │   └── sea-5-ideoplasty-w-rebecca-baron-gaelle-cintre-harry-dodge-doug-go-864x.jpg
+│   │   │   │   └── f07997224e-1623008875
+│   │   │   │       ├── sea-5-ideoplasty-w-rebecca-baron-gaelle-cintre-harry-dodge-doug-go-76x76.jpg
+│   │   │   │       └── sea-5-ideoplasty-w-rebecca-baron-gaelle-cintre-harry-dodge-doug-go-864x.jpg
+│   │   │   ├── presentation-conversation-with-doug-goodwin-and-tony-manzella
+│   │   │   │   ├── 158a13ee7c-1623006431
+│   │   │   │   │   ├── cup-o-red-76x76.jpg
+│   │   │   │   │   └── cup-o-red.jpg
+│   │   │   │   ├── 1d3621ced8-1623006431
+│   │   │   │   │   ├── cup-o-magenta-76x76.jpg
+│   │   │   │   │   └── cup-o-magenta.jpg
+│   │   │   │   ├── 52f32850a2-1623006431
+│   │   │   │   │   ├── cup-o-orange-76x76.jpg
+│   │   │   │   │   └── cup-o-orange.jpg
+│   │   │   │   ├── 8a3eaca17a-1623005788
+│   │   │   │   │   ├── tonymanzanella-320x180.jpg
+│   │   │   │   │   ├── tonymanzanella-76x76.jpg
+│   │   │   │   │   └── tonymanzanella-864x.jpg
+│   │   │   │   ├── 91c87555d8-1623005788
+│   │   │   │   │   ├── tonymanzanella-320x180.jpg
+│   │   │   │   │   ├── tonymanzanella-76x76.jpg
+│   │   │   │   │   └── tonymanzanella-864x.jpg
+│   │   │   │   ├── 9dabc8d778-1623006431
+│   │   │   │   │   ├── cup-o-cyan-76x76.jpg
+│   │   │   │   │   └── cup-o-cyan.jpg
+│   │   │   │   └── b8c92245d0-1623006431
+│   │   │   │       ├── cup-o-yellow-76x76.jpg
+│   │   │   │       └── cup-o-yellow.jpg
+│   │   │   ├── presentation-interdisciplinary-data-science-faculty-panel
+│   │   │   │   ├── 6b230fdbd1-1623042021
+│   │   │   │   │   ├── ocac-poster-v1d-1200x600.png
+│   │   │   │   │   ├── ocac-poster-v1d-1408x.png
+│   │   │   │   │   ├── ocac-poster-v1d-76x76.png
+│   │   │   │   │   └── ocac_poster_v1d.png
+│   │   │   │   ├── e94eaf194d-1623042205
+│   │   │   │   │   ├── ocac-poster-v1d-png-1200x600.jpg
+│   │   │   │   │   └── ocac-poster-v1d-png-76x76.jpg
+│   │   │   │   ├── eee91f77d3-1623042866
+│   │   │   │   │   ├── ocac-presentation-md-320x180.jpg
+│   │   │   │   │   ├── ocac-presentation-md-76x76.jpg
+│   │   │   │   │   └── ocac-presentation-md-864x.jpg
+│   │   │   │   └── f679a1c13f-1623042866
+│   │   │   │       ├── ocac-presentation-md-320x180.jpg
+│   │   │   │       ├── ocac-presentation-md-76x76.jpg
+│   │   │   │       └── ocac-presentation-md-864x.jpg
+│   │   │   ├── publication-advances-in-urban-transportation-data-and-information-systemsusing-smart-farecard-data-to-support-transit-network-re
+│   │   │   │   ├── 28e6c7a2a5-1623041783
+│   │   │   │   │   ├── microsoft-word-fy09-org-chart-book-intro-doc-320x180.jpg
+│   │   │   │   │   ├── microsoft-word-fy09-org-chart-book-intro-doc-76x76.jpg
+│   │   │   │   │   └── microsoft-word-fy09-org-chart-book-intro-doc-864x.jpg
+│   │   │   │   └── 356da6c66c-1623041783
+│   │   │   │       ├── microsoft-word-fy09-org-chart-book-intro-doc-320x180.jpg
+│   │   │   │       ├── microsoft-word-fy09-org-chart-book-intro-doc-76x76.jpg
+│   │   │   │       └── microsoft-word-fy09-org-chart-book-intro-doc-864x.jpg
+│   │   │   ├── publication-using-smart-farecard-data-to-support-transit-network-restructuring
+│   │   │   │   ├── 0cec3adec1-1623004808
+│   │   │   │   │   ├── 10-1177-0361198119845661-pdf-page-2-of-12-320x180.jpg
+│   │   │   │   │   ├── 10-1177-0361198119845661-pdf-page-2-of-12-76x76.jpg
+│   │   │   │   │   └── 10-1177-0361198119845661-pdf-page-2-of-12-864x.jpg
+│   │   │   │   ├── 6822f5afe4-1623004935
+│   │   │   │   │   ├── 10-1177-0361198119845661-pdf-page-8-of-12-76x76.jpg
+│   │   │   │   │   └── 10_1177_0361198119845661_pdf__page_8_of_12.jpg
+│   │   │   │   ├── 89246212be-1623004935
+│   │   │   │   │   └── 10-1177-0361198119845661-pdf-page-8-of-12-76x76.jpg
+│   │   │   │   ├── 911c98e24f-1623004935
+│   │   │   │   │   ├── 10-1177-0361198119845661-pdf-page-9-of-12-76x76.jpg
+│   │   │   │   │   └── 10_1177_0361198119845661_pdf__page_9_of_12.jpg
+│   │   │   │   ├── 9420e9384c-1623004808
+│   │   │   │   │   ├── 10-1177-0361198119845661-pdf-page-2-of-12-320x180.jpg
+│   │   │   │   │   ├── 10-1177-0361198119845661-pdf-page-2-of-12-76x76.jpg
+│   │   │   │   │   └── 10-1177-0361198119845661-pdf-page-2-of-12-864x.jpg
+│   │   │   │   ├── b4dfab21b4-1623004935
+│   │   │   │   │   └── 10-1177-0361198119845661-pdf-page-9-of-12-76x76.jpg
+│   │   │   │   └── cc1d88663e-1623004808
+│   │   │   │       ├── 10-1177-0361198119845661-pdf-page-2-of-12-320x180.jpg
+│   │   │   │       ├── 10-1177-0361198119845661-pdf-page-2-of-12-76x76.jpg
+│   │   │   │       ├── 10-1177-0361198119845661-pdf-page-2-of-12-864x.jpg
+│   │   │   │       └── 10_1177_0361198119845661_pdf__page_2_of_12.jpg
+│   │   │   └── wired-magazine-review
+│   │   │       ├── 12920836a2-1623005366
+│   │   │       │   └── 2706-mass-transit-violet-reed-1408x.jpg
+│   │   │       ├── 143fd2b404-1622991848
+│   │   │       │   ├── himalaya-76x76.jpg
+│   │   │       │   └── himalaya-864x.jpg
+│   │   │       ├── c90ece22fa-1622991848
+│   │   │       │   └── himalaya-76x76.jpg
+│   │   │       ├── dd3671cebf-1623005366
+│   │   │       │   ├── 2706-mass-transit-violet-reed-1200x600.jpg
+│   │   │       │   ├── 2706-mass-transit-violet-reed-320x180.jpg
+│   │   │       │   ├── 2706-mass-transit-violet-reed-76x76.jpg
+│   │   │       │   └── 2706-mass-transit-violet-reed-864x.jpg
+│   │   │       └── f13907711d-1623005366
+│   │   │           ├── 2706-mass-transit-violet-reed-320x180.jpg
+│   │   │           ├── 2706-mass-transit-violet-reed-76x76.jpg
+│   │   │           └── 2706-mass-transit-violet-reed-864x.jpg
+│   │   └── photography
+│   │       ├── 100-austen
+│   │       │   └── a9933c18dc-1622993085
+│   │       │       └── austenmss-2-1408x.png
+│   │       ├── archive
+│   │       │   ├── 16fd6eadcf-1622997595
+│   │       │   │   ├── img-1100-76x76.jpg
+│   │       │   │   ├── img-1100-800x.jpg
+│   │       │   │   └── img-1100-864x.jpg
+│   │       │   ├── 3009f6b447-1622997595
+│   │       │   │   ├── img-1179-76x76.jpg
+│   │       │   │   ├── img-1179-800x.jpg
+│   │       │   │   └── img-1179-864x.jpg
+│   │       │   ├── 81a3ab26eb-1622991848
+│   │       │   │   ├── nice-colors-ugly-plant-1024x1024.jpg
+│   │       │   │   ├── nice-colors-ugly-plant-1408x.jpg
+│   │       │   │   └── nice-colors-ugly-plant-400x500.jpg
+│   │       │   ├── 84d3c87676-1622997595
+│   │       │   │   ├── 2014-09-05-18-28-01-1024x1024.jpg
+│   │       │   │   ├── 2014-09-05-18-28-01-1408x.jpg
+│   │       │   │   ├── 2014-09-05-18-28-01-400x500.jpg
+│   │       │   │   └── 2014-09-05-18-28-01-76x76.jpg
+│   │       │   ├── a2d9fb2e89-1622997595
+│   │       │   │   └── 2014-09-13-14-26-03-864x.jpg
+│   │       │   ├── c87d763f0e-1622997595
+│   │       │   │   └── img-1100-864x.jpg
+│   │       │   ├── e86ea2cabd-1622997595
+│   │       │   │   ├── 2014-09-05-18-28-01-1024x1024.jpg
+│   │       │   │   ├── 2014-09-05-18-28-01-1408x.jpg
+│   │       │   │   ├── 2014-09-05-18-28-01-400x500.jpg
+│   │       │   │   ├── 2014-09-05-18-28-01-76x76.jpg
+│   │       │   │   ├── 2014-09-05-18-28-01-800x.jpg
+│   │       │   │   └── 2014-09-05-18-28-01-864x.jpg
+│   │       │   ├── fa60dc31a8-1622997595
+│   │       │   │   └── img-1179-864x.jpg
+│   │       │   └── ff6e3e415c-1622997595
+│   │       │       ├── 2014-09-13-14-26-03-76x76.jpg
+│   │       │       ├── 2014-09-13-14-26-03-800x.jpg
+│   │       │       └── 2014-09-13-14-26-03-864x.jpg
+│   │       ├── artifacts
+│   │       │   ├── 28b6ee41b4-1622996046
+│   │       │   │   ├── 17-artifact13-1024x1024.png
+│   │       │   │   ├── 17-artifact13-1408x.png
+│   │       │   │   ├── 17-artifact13-400x500.png
+│   │       │   │   ├── 17-artifact13-76x76.png
+│   │       │   │   └── 17-artifact13-800x.png
+│   │       │   ├── 327fad98b4-1622996046
+│   │       │   │   ├── 17-artifact19-800x.png
+│   │       │   │   └── 17-artifact19-864x.png
+│   │       │   ├── 382609a645-1622996046
+│   │       │   │   ├── artifact-1-5-800x.png
+│   │       │   │   └── artifact-1-5-864x.png
+│   │       │   ├── 3972971224-1622996046
+│   │       │   │   ├── 17-artifact13-1024x1024.png
+│   │       │   │   ├── 17-artifact13-1408x.png
+│   │       │   │   ├── 17-artifact13-400x500.png
+│   │       │   │   ├── 17-artifact13-76x76.png
+│   │       │   │   └── 17-artifact13-864x.png
+│   │       │   ├── 3a80dd5444-1622996046
+│   │       │   │   ├── artifact-1-28-800x.png
+│   │       │   │   └── artifact-1-28-864x.png
+│   │       │   ├── 4050f34c0e-1622996046
+│   │       │   │   ├── artifact-1-31-800x.png
+│   │       │   │   └── artifact-1-31-864x.png
+│   │       │   ├── 48129f964f-1622996046
+│   │       │   │   ├── artifact-1-6-76x76.png
+│   │       │   │   └── artifact-1-6-864x.png
+│   │       │   ├── 4a06203d3a-1622996046
+│   │       │   │   ├── artifact-1-33-644x320-800x.png
+│   │       │   │   └── artifact-1-33-644x320-864x.png
+│   │       │   ├── 5b14e43110-1622996046
+│   │       │   │   ├── artifact-1-28-76x76.png
+│   │       │   │   └── artifact-1-28-864x.png
+│   │       │   ├── 5d3b69680a-1622996046
+│   │       │   │   ├── artifact-1-33-644x320-76x76.png
+│   │       │   │   └── artifact-1-33-644x320-864x.png
+│   │       │   ├── 778feb34af-1622996046
+│   │       │   │   ├── 17-artifact19-76x76.png
+│   │       │   │   └── 17-artifact19-864x.png
+│   │       │   ├── 7a98468ae4-1622996046
+│   │       │   │   ├── artifact-1-12-644x320-800x.png
+│   │       │   │   └── artifact-1-12-644x320-864x.png
+│   │       │   ├── 7f3b8ba417-1622996046
+│   │       │   │   ├── artifact-1-12-644x320-76x76.png
+│   │       │   │   └── artifact-1-12-644x320-864x.png
+│   │       │   ├── 809296dc5c-1622996046
+│   │       │   │   ├── artifact-1-6-800x.png
+│   │       │   │   └── artifact-1-6-864x.png
+│   │       │   ├── cc2c6069ef-1622991848
+│   │       │   │   ├── probably-photoshopped-1024x1024.jpg
+│   │       │   │   ├── probably-photoshopped-1408x.jpg
+│   │       │   │   └── probably-photoshopped-400x500.jpg
+│   │       │   ├── d26a7da3c0-1622996046
+│   │       │   │   ├── artifact-1-5-76x76.png
+│   │       │   │   └── artifact-1-5-864x.png
+│   │       │   └── d86d0662d9-1622996046
+│   │       │       ├── artifact-1-31-76x76.png
+│   │       │       └── artifact-1-31-864x.png
+│   │       ├── desert
+│   │       │   └── 0ddbb26ae1-1622991848
+│   │       │       ├── indiana-jones-1024x1024.jpg
+│   │       │       └── indiana-jones-1408x.jpg
+│   │       ├── falling
+│   │       │   ├── 1135b02801-1623041315
+│   │       │   │   ├── 1081685526-800x.jpg
+│   │       │   │   └── 1081685526-864x.jpg
+│   │       │   ├── 3407beb20e-1623040852
+│   │       │   │   ├── 84ebd722518479e-76x76.png
+│   │       │   │   ├── 84ebd722518479e-800x.png
+│   │       │   │   └── 84ebd722518479e-864x.png
+│   │       │   ├── 5ab9a8cf3e-1623040852
+│   │       │   │   ├── 235de5fd2df6d82b-800x.png
+│   │       │   │   └── 235de5fd2df6d82b-864x.png
+│   │       │   ├── 6070845d75-1623041315
+│   │       │   │   ├── 1081685526-1408x.jpg
+│   │       │   │   ├── 1081685526-76x76.jpg
+│   │       │   │   ├── 1081685526-800x.jpg
+│   │       │   │   └── 1081685526-864x.jpg
+│   │       │   ├── 6efdf5f21d-1623040852
+│   │       │   │   ├── 84ebd722518479e-800x.png
+│   │       │   │   └── 84ebd722518479e-864x.png
+│   │       │   ├── 8d7e30257c-1623040852
+│   │       │   │   ├── 235de5fd2df6d82b-76x76.png
+│   │       │   │   ├── 235de5fd2df6d82b-800x.png
+│   │       │   │   └── 235de5fd2df6d82b-864x.png
+│   │       │   ├── 93b1b58d45-1623040852
+│   │       │   │   ├── 7f38b3a25273618e-76x76.png
+│   │       │   │   ├── 7f38b3a25273618e-800x.png
+│   │       │   │   └── 7f38b3a25273618e-864x.png
+│   │       │   ├── a97b0e5b0a-1622991848
+│   │       │   │   ├── dark-forest-1024x1024.jpg
+│   │       │   │   └── dark-forest-1408x.jpg
+│   │       │   ├── b7254da00f-1622994344
+│   │       │   │   ├── 01-fm-cut-7-1024x1024.jpg
+│   │       │   │   ├── 01-fm-cut-7-1408x.jpg
+│   │       │   │   ├── 01-fm-cut-7-400x500.jpg
+│   │       │   │   ├── 01-fm-cut-7-76x76.jpg
+│   │       │   │   └── 01-fm-cut-7-800x.jpg
+│   │       │   ├── ce1cf8ee1f-1622994344
+│   │       │   │   ├── 01-fm-cut-7-1024x1024.jpg
+│   │       │   │   ├── 01-fm-cut-7-1408x.jpg
+│   │       │   │   ├── 01-fm-cut-7-400x500.jpg
+│   │       │   │   ├── 01-fm-cut-7-76x76.jpg
+│   │       │   │   ├── 01-fm-cut-7-800x.jpg
+│   │       │   │   ├── 01-fm-cut-7-864x.jpg
+│   │       │   │   └── 01_fm_cut_7.jpeg
+│   │       │   ├── dcdd924b2b-1623040852
+│   │       │   │   ├── 7f38b3a25273618e-800x.png
+│   │       │   │   └── 7f38b3a25273618e-864x.png
+│   │       │   ├── e8c9e5c923-1623040852
+│   │       │   │   ├── 8199f9dd9e788937-800x.png
+│   │       │   │   └── 8199f9dd9e788937-864x.png
+│   │       │   └── f6714893b2-1623040852
+│   │       │       ├── 8199f9dd9e788937-76x76.png
+│   │       │       ├── 8199f9dd9e788937-800x.png
+│   │       │       └── 8199f9dd9e788937-864x.png
+│   │       ├── hundred-austen
+│   │       │   └── bec7fbf7c6-1622993085
+│   │       │       └── austenmss-2-1408x.png
+│   │       ├── kerouac
+│   │       │   ├── 4521d16c57-1622997273
+│   │       │   │   ├── kerouacs-ear4-low-res-width-1080px-gigapixel-1024x1024.png
+│   │       │   │   ├── kerouacs-ear4-low-res-width-1080px-gigapixel-1408x.png
+│   │       │   │   ├── kerouacs-ear4-low-res-width-1080px-gigapixel-400x500.png
+│   │       │   │   ├── kerouacs-ear4-low-res-width-1080px-gigapixel-76x76.png
+│   │       │   │   ├── kerouacs-ear4-low-res-width-1080px-gigapixel-800x.png
+│   │       │   │   └── kerouacs-ear4-low-res-width-1080px-gigapixel-864x.png
+│   │       │   ├── 52cf865364-1622997273
+│   │       │   │   ├── kerouacs-ear12-1408x.png
+│   │       │   │   ├── kerouacs-ear12-76x76.png
+│   │       │   │   ├── kerouacs-ear12-800x.png
+│   │       │   │   └── kerouacs-ear12-864x.png
+│   │       │   ├── 9c0f30487b-1622997273
+│   │       │   │   ├── kerouacs-ear4-low-res-width-1080px-gigapixel-1024x1024.png
+│   │       │   │   ├── kerouacs-ear4-low-res-width-1080px-gigapixel-1408x.png
+│   │       │   │   ├── kerouacs-ear4-low-res-width-1080px-gigapixel-400x500.png
+│   │       │   │   ├── kerouacs-ear4-low-res-width-1080px-gigapixel-76x76.png
+│   │       │   │   └── kerouacs-ear4-low-res-width-1080px-gigapixel-800x.png
+│   │       │   └── a44cbd28ab-1622997273
+│   │       │       ├── kerouacs-ear12-800x.png
+│   │       │       └── kerouacs-ear12-864x.png
+│   │       ├── landscape
+│   │       │   └── 1f86542d1a-1622991848
+│   │       │       ├── that-green-looks-fake-1024x1024.jpg
+│   │       │       └── that-green-looks-fake-1408x.jpg
+│   │       ├── lossless
+│   │       │   ├── 59af04f26e-1622995300
+│   │       │   │   ├── l1-1024x1024.png
+│   │       │   │   ├── l1-1408x.png
+│   │       │   │   ├── l1-400x500.png
+│   │       │   │   ├── l1-76x76.png
+│   │       │   │   ├── l1-800x.png
+│   │       │   │   └── l1.png
+│   │       │   ├── 6d4ea74e4f-1622991848
+│   │       │   │   ├── indiana-jones-1024x1024.jpg
+│   │       │   │   ├── indiana-jones-1408x.jpg
+│   │       │   │   └── indiana-jones-400x500.jpg
+│   │       │   ├── 717d1328af-1622995300
+│   │       │   │   ├── l5-800x.png
+│   │       │   │   └── l5-864x.png
+│   │       │   ├── 7a52a9ec01-1622995300
+│   │       │   │   ├── l3-76x76.png
+│   │       │   │   ├── l3-800x.png
+│   │       │   │   └── l3-864x.png
+│   │       │   ├── a150c02b03-1622995300
+│   │       │   │   ├── l2-76x76.png
+│   │       │   │   ├── l2-800x.png
+│   │       │   │   └── l2-864x.png
+│   │       │   ├── bfe53477bf-1622995300
+│   │       │   │   ├── l4-76x76.png
+│   │       │   │   ├── l4-800x.png
+│   │       │   │   └── l4-864x.png
+│   │       │   ├── d15f99132f-1622995300
+│   │       │   │   ├── l2-800x.png
+│   │       │   │   └── l2-864x.png
+│   │       │   ├── dac6af372a-1622995300
+│   │       │   │   ├── l4-800x.png
+│   │       │   │   └── l4-864x.png
+│   │       │   ├── e1b5f07519-1622995300
+│   │       │   │   ├── l3-800x.png
+│   │       │   │   └── l3-864x.png
+│   │       │   ├── fa88e6f441-1622995300
+│   │       │   │   ├── l5-76x76.png
+│   │       │   │   ├── l5-800x.png
+│   │       │   │   └── l5-864x.png
+│   │       │   └── fe986cd925-1622995300
+│   │       │       ├── l1-1024x1024.png
+│   │       │       ├── l1-1408x.png
+│   │       │       ├── l1-400x500.png
+│   │       │       ├── l1-76x76.png
+│   │       │       ├── l1-800x.png
+│   │       │       ├── l1-864x.png
+│   │       │       └── l1.png
+│   │       ├── mountains
+│   │       │   └── 6e51639a2e-1622991848
+│   │       │       ├── probably-photoshopped-1024x1024.jpg
+│   │       │       └── probably-photoshopped-1408x.jpg
+│   │       ├── nonsense
+│   │       │   ├── 190188b7f0-1622991848
+│   │       │   │   └── jellyfish-864x.jpg
+│   │       │   ├── 1bccf8c185-1622994909
+│   │       │   │   ├── 4-nateharrison-lines-width-1080px-gigapixel-1024x1024.jpg
+│   │       │   │   ├── 4-nateharrison-lines-width-1080px-gigapixel-1408x.jpg
+│   │       │   │   ├── 4-nateharrison-lines-width-1080px-gigapixel-400x500.jpg
+│   │       │   │   ├── 4-nateharrison-lines-width-1080px-gigapixel-76x76.jpg
+│   │       │   │   └── 4-nateharrison-lines-width-1080px-gigapixel-864x.jpg
+│   │       │   ├── 20715f8e85-1622991848
+│   │       │   │   └── the-beach-864x.jpg
+│   │       │   ├── 2e7b9394f8-1622991848
+│   │       │   │   └── attention-sharks-864x.jpg
+│   │       │   ├── 40c5bf82da-1622994909
+│   │       │   │   ├── p1040459-800x.jpg
+│   │       │   │   └── p1040459-864x.jpg
+│   │       │   ├── 5f722a7d38-1622994909
+│   │       │   │   ├── nonsense-1-800x.png
+│   │       │   │   └── nonsense-1-864x.png
+│   │       │   ├── a0536925c8-1622991848
+│   │       │   │   ├── island-from-above-1024x1024.jpg
+│   │       │   │   ├── island-from-above-1408x.jpg
+│   │       │   │   ├── island-from-above-400x500.jpg
+│   │       │   │   └── island-from-above-76x76.jpg
+│   │       │   ├── bb3b812c07-1622991848
+│   │       │   │   └── smashed-by-waves-864x.jpg
+│   │       │   ├── d05a07a88c-1622994909
+│   │       │   │   ├── p1040459-76x76.jpg
+│   │       │   │   └── p1040459-864x.jpg
+│   │       │   ├── e0d17d2b5b-1622991848
+│   │       │   │   └── nasty-rocks-864x.jpg
+│   │       │   ├── eb93ce832b-1622994909
+│   │       │   │   ├── 4-nateharrison-lines-width-1080px-gigapixel-1024x1024.jpg
+│   │       │   │   ├── 4-nateharrison-lines-width-1080px-gigapixel-1408x.jpg
+│   │       │   │   ├── 4-nateharrison-lines-width-1080px-gigapixel-400x500.jpg
+│   │       │   │   ├── 4-nateharrison-lines-width-1080px-gigapixel-76x76.jpg
+│   │       │   │   └── 4-nateharrison-lines-width-1080px-gigapixel-800x.jpg
+│   │       │   └── f256c409c4-1622994909
+│   │       │       ├── nonsense-1-76x76.png
+│   │       │       └── nonsense-1-864x.png
+│   │       ├── ocean
+│   │       │   └── af09990175-1622991848
+│   │       │       ├── island-from-above-1024x1024.jpg
+│   │       │       └── island-from-above-1408x.jpg
+│   │       ├── plants
+│   │       │   └── 33ad604e72-1622991848
+│   │       │       ├── nice-colors-ugly-plant-1024x1024.jpg
+│   │       │       └── nice-colors-ugly-plant-1408x.jpg
+│   │       ├── sky
+│   │       │   ├── 1890d98010-1622991848
+│   │       │   │   └── blood-moon-864x.jpg
+│   │       │   ├── 2f1608cb9b-1622991848
+│   │       │   │   └── tent-in-the-woods-864x.jpg
+│   │       │   ├── 3c531102f2-1622991848
+│   │       │   │   └── desert-tree-864x.jpg
+│   │       │   ├── 3eacf05d86-1622991848
+│   │       │   │   └── coconut-milkyway-864x.jpg
+│   │       │   └── d17ef26c0a-1622991848
+│   │       │       ├── dark-forest-1024x1024.jpg
+│   │       │       ├── dark-forest-1408x.jpg
+│   │       │       └── dark-forest-76x76.jpg
+│   │       ├── surely-austen
+│   │       │   ├── a064292047-1622993085
+│   │       │   │   ├── austenmss-4-1024x1024.png
+│   │       │   │   ├── austenmss-4-1408x.png
+│   │       │   │   ├── austenmss-4-400x500.png
+│   │       │   │   ├── austenmss-4-76x76.png
+│   │       │   │   └── austenmss-4-800x.png
+│   │       │   ├── c83edc02b2-1622993085
+│   │       │   │   ├── austenmss-4-1024x1024.png
+│   │       │   │   ├── austenmss-4-1408x.png
+│   │       │   │   ├── austenmss-4-400x500.png
+│   │       │   │   ├── austenmss-4-76x76.png
+│   │       │   │   ├── austenmss-4-800x.png
+│   │       │   │   └── austenmss-4-864x.png
+│   │       │   ├── ce737a38a8-1622993085
+│   │       │   │   ├── austenmss-1-800x.png
+│   │       │   │   └── austenmss-1-864x.png
+│   │       │   ├── d537a40d5d-1622993085
+│   │       │   │   ├── austenmss-2-800x.png
+│   │       │   │   ├── austenmss-2-864x.png
+│   │       │   │   └── austenmss_2.png
+│   │       │   ├── d9814693b3-1622993085
+│   │       │   │   ├── austenmss-2-1408x.png
+│   │       │   │   ├── austenmss-2-800x.png
+│   │       │   │   ├── austenmss-2-864x.png
+│   │       │   │   └── austenmss_2.png
+│   │       │   └── db3b68c0b1-1622993085
+│   │       │       ├── austenmss-1-800x.png
+│   │       │       └── austenmss-1-864x.png
+│   │       ├── trees
+│   │       │   ├── 01a778e45e-1622991848
+│   │       │   │   ├── cheesy-autumn-800x.jpg
+│   │       │   │   └── cheesy-autumn-864x.jpg
+│   │       │   ├── 207644785d-1622993085
+│   │       │   │   ├── austenmss-1-76x76.png
+│   │       │   │   ├── austenmss-1-800x.png
+│   │       │   │   └── austenmss-1-864x.png
+│   │       │   ├── 2a8abbbdd5-1622993085
+│   │       │   │   ├── austenmss-4-76x76.png
+│   │       │   │   ├── austenmss-4-800x.png
+│   │       │   │   └── austenmss-4-864x.png
+│   │       │   ├── 352425d540-1622991848
+│   │       │   │   ├── last-tree-standing-1408x.jpg
+│   │       │   │   ├── last-tree-standing-800x.jpg
+│   │       │   │   └── last-tree-standing-864x.jpg
+│   │       │   ├── 6d45213ea2-1622993085
+│   │       │   │   ├── austenmss-2-1024x1024.png
+│   │       │   │   ├── austenmss-2-1408x.png
+│   │       │   │   ├── austenmss-2-76x76.png
+│   │       │   │   ├── austenmss-2-800x.png
+│   │       │   │   ├── austenmss-2-864x.png
+│   │       │   │   └── austenmss_2.png
+│   │       │   ├── 8f973905d4-1622991848
+│   │       │   │   ├── monster-trees-in-the-fog-1024x1024.jpg
+│   │       │   │   ├── monster-trees-in-the-fog-1408x.jpg
+│   │       │   │   ├── monster-trees-in-the-fog-76x76.jpg
+│   │       │   │   └── monster-trees-in-the-fog-800x.jpg
+│   │       │   ├── c48b3a90b8-1622991848
+│   │       │   │   ├── sharewood-forest-800x.jpg
+│   │       │   │   └── sharewood-forest-864x.jpg
+│   │       │   └── fce058dac3-1622991848
+│   │       │       ├── stay-in-the-car-800x.jpg
+│   │       │       └── stay-in-the-car-864x.jpg
+│   │       └── waterfall
+│   │           └── 7f6c76f50d-1622991848
+│   │               ├── the-fall-is-lava-1024x1024.jpg
+│   │               └── the-fall-is-lava-1408x.jpg
+│   └── panel
+│       └── e87f0cefd7af496385034f7c7a96884d
+│           ├── apple-touch-icon.png
+│           ├── css
+│           │   └── app.css
+│           ├── favicon.png
+│           ├── favicon.svg
+│           ├── img
+│           │   └── icons.svg
+│           └── js
+│               ├── app.js
+│               ├── plugins.js
+│               └── vendor.js
+├── site
+│   ├── accounts
+│   │   └── F8TQVjfl
+│   │       ├── index.php
+│   │       └── user.txt
+│   ├── blueprints
+│   │   ├── fields
+│   │   │   └── cover.yml
+│   │   ├── files
+│   │   │   ├── blocks
+│   │   │   │   └── image.yml
+│   │   │   └── image.yml
+│   │   ├── pages
+│   │   │   ├── about.yml
+│   │   │   ├── album.yml
+│   │   │   ├── default.yml
+│   │   │   ├── error.yml
+│   │   │   ├── home.yml
+│   │   │   ├── note.yml
+│   │   │   ├── notes.yml
+│   │   │   └── photography.yml
+│   │   ├── sections
+│   │   │   ├── albums.yml
+│   │   │   └── notes.yml
+│   │   ├── site.yml
+│   │   └── users
+│   │       └── default.yml
+│   ├── cache
+│   │   └── index.html
+│   ├── collections
+│   │   └── notes.php
+│   ├── config
+│   │   └── config.php
+│   ├── controllers
+│   │   ├── album.php
+│   │   ├── note.php
+│   │   └── notes.php
+│   ├── models
+│   │   ├── album.php
+│   │   └── note.php
+│   ├── sessions
+│   │   ├── 1624655692.fbd0e2d8c87ee5fb4aba.sess
+│   │   ├── 1624659315.d52fca5bfdcee7dfea8a.sess
+│   │   ├── 1624662936.327518a8293c5b39b5af.sess
+│   │   └── 1624666558.e3615bf35c5add009a42.sess
+│   ├── snippets
+│   │   ├── blocks
+│   │   │   ├── image.php
+│   │   │   └── video.php
+│   │   ├── footer.php
+│   │   ├── gallery.php
+│   │   ├── header.php
+│   │   ├── intro.php
+│   │   ├── layouts.php
+│   │   ├── note.php
+│   │   ├── pagination.php
+│   │   ├── prevnext.php
+│   │   └── social.php
+│   └── templates
+│       ├── about.php
+│       ├── album.php
+│       ├── default.php
+│       ├── home.php
+│       ├── note.php
+│       ├── notes.php
+│       └── photography.php
+└── tree.txt
+
+375 directories, 1288 files

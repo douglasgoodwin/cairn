@@ -1,10 +1,8 @@
-Title: lossless series
+Title: Lossless series
 
 ----
 
-Cover:
-
-- l1.png
+Cover: - l1.png
 
 ----
 

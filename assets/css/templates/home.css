@@ -56,6 +56,7 @@
   line-height: 1;
   text-align: center;
   background: rgba(0,0,0, .5);
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 @media screen and (min-width: 45em) {

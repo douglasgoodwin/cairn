@@ -1,21 +1,20 @@
 {
-    "name": "getkirby/starterkit",
-    "description": "Kirby Starterkit",
-    "type": "project",
-    "keywords": ["kirby", "cms", "starterkit"],
+    "name": "douglasgoodwin/cairn",
+    "description": "cairn.com",
+    "type": "website",
+    "keywords": ["teaching", "video", "artist"],
     "homepage": "https://getkirby.com",
     "authors": [
         {
-            "name": "Bastian Allgeier",
-            "email": "bastian@getkirby.com",
-            "homepage": "https://getkirby.com"
+            "name": "Douglas Goodwin",
+            "email": "dgoodwin@cairn.com",
+            "homepage": "https://cairn.com"
         }
     ],
     "support": {
-        "email": "support@getkirby.com",
-        "issues": "https://github.com/getkirby/starterkit/issues",
-        "forum": "https://forum.getkirby.com",
-        "source": "https://github.com/getkirby/starterkit"
+        "email": "support@cairn.com",
+        "issues": "https://github.com/douglasgoodwin/cairn/issues",
+        "source": "https://github.com/douglasgoodwin/cairn"
     },
     "require": {
         "php": ">=7.3.0 <8.1.0",

@@ -1,0 +1,23 @@
+Title: 2020 Biodesign Challenge
+
+----
+
+Text: [{"content":{"text":"<p><strong>The Biodesign Challenge<\/strong>&nbsp;is an education program and competition that is shaping the first generation of biodesigners. We partner high school and university students with scientists, artists, and designers to envision, create, and critique transformational applications in biotech.<\/p><p>I brought three student teams and have participated in five summits in addition to serving as a faculty mentor. <\/p>"},"id":"3aea94a7-50b4-4393-9210-8307578eb55d","isHidden":false,"type":"text"}]
+
+----
+
+Cover:
+
+----
+
+Date: 2020-06-26 00:00:00
+
+----
+
+Author:
+
+- F8TQVjfl
+
+----
+
+Tags: student work, competition, biodesign

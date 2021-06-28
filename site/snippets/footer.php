@@ -13,9 +13,9 @@
 
   <footer class="footer">
     <div class="grid">
-      <div class="column" style="--columns: 8">
-        <h2><a href="https://getkirby.com">Made with open source</a></h2>
-      </div>
+      <!-- <div class="column" style="--columns: 8">
+        <h2><a href="https://getkirby.com">open source</a></h2>
+      </div> -->
       <div class="column" style="--columns: 2">
         <h2>pages</h2>
         <ul>
@@ -27,7 +27,7 @@
       <div class="column" style="--columns: 2">
         <h2>Douglas Goodwin</h2>
         <ul>
-          <li><a href="https://cairn.com">Website</a></li>
+          <li><a href="https://cairn.com">cairn.com</a></li>
           <li><a href="https://instagram.com/douglasrgoodwin">Instagram</a></li>
           <li><a href="https://github.com/douglasgoodwin">GitHub</a></li>
         </ul>
@@ -41,6 +41,10 @@
     'assets/js/index.js',
     '@auto'
   ]) ?>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap" rel="stylesheet">
 
 </body>
 </html>

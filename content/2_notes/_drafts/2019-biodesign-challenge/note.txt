@@ -1,0 +1,23 @@
+Title: 2019 Biodesign Challenge
+
+----
+
+Text: [{"content":{"text":"<p><strong>The Biodesign Challenge<\/strong>&nbsp;is an education program and competition that is shaping the first generation of biodesigners. We partner high school and university students with scientists, artists, and designers to envision, create, and critique transformational applications in biotech.<\/p><p>I brought three student teams and have participated in five summits in addition to serving as a faculty mentor. \"The Other Townsend\" won the Oustanding Social Critique Prize in 2019. <\/p><p><strong>The Outstanding Social Critique Prize is awarded to the team that best explores and most clearly communicates a criticism of biotechnology through a social lens. The team\u2019s project will address the positive and negative effects of a technology or system on users and nonusers, potential societal reactions to these effects, and ways to mitigate negative ones.<\/strong><\/p><p><br><\/p>"},"id":"3aea94a7-50b4-4393-9210-8307578eb55d","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["the_other_townsend_-_vivaldi.jpg"],"src":"","alt":"The Other Townsend--","caption":"Who do they think you are?","link":"","ratio":"","crop":"false"},"id":"886f1fc1-717a-4fa8-b704-9d1600affa59","isHidden":false,"type":"image"},{"content":{"text":"<p><strong>The Other Townsend: WHO DO THEY THINK YOU ARE?<\/strong><\/p><p>This Townsend enjoys British historical dramas, European horror films, quirky detective shows, American animated comedies, and stop-motion films. They collect watch bands, swords, Nike shoes, vintage fantasy books, asthma inhalers, horror movie posters, used Playstation 4 controllers, pliers, flashlights, packaged military rations, thank you card sets, and Season 3 of Scrubs on DVD. Their hobbies are reading, medieval weaponry, watch cleaning, medical supply hoarding, forensics, running, fixing pipes and small machinery, and English Premier League football.<\/p>"},"id":"ec2ef9a8-154f-43a4-99a0-7592bbeb3d80","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Why make a fake person? What does it have to do with biology?<\/strong><\/p><p>The Other Townsend is not a person. And yet, the Other can still operate as a human online and through data by gaining interests, moving around on a map, making posts on Facebook, and generating a heartbeat, mood, and sleeping pattern. You can even talk to the Other through texts. The \u201cpersonality\u201d we\u2019ve created to simulate life, however, is derived from the \u201cstolen\u201d information of five separate people. Companies can advertise to them, recognize their face, find their location, etc. and the information gathered was gathered manually in the same way Amazon, Google, Apple, and more gather constantly, proving the reductiveness of their methods of defining who qualifies as human, and the downfall of their unethical practices of data collection. Tech companies see you as a police sketch of you, or a \u201cdata portrait\u201d. To them you are not human\u2013you are points of information that can be bought and sold in order to advertise, track, or use. Even your biology is reduced to this, with services such as 23andme.com and Google\u2019s Verily spending nearly as much time in your genetics as you do. This constant and unchecked theft of data on behalf of tech companies is socially and politically unethical, exploitative, and reckless. By ignoring the human behind every point of data, they endanger us all.<\/p><p><\/p>"},"id":"4847b22a-07d4-4e48-afd2-f71aede30d2b","isHidden":false,"type":"text"}]
+
+----
+
+Cover: 
+
+----
+
+Date: 2019-06-26 00:00:00
+
+----
+
+Author:
+
+- F8TQVjfl
+
+----
+
+Tags: student work, competition, biodesign
