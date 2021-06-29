@@ -21,7 +21,8 @@
         "getkirby/cms": "^3.5.7-rc.1",
         "ext-ctype": "*",
         "ext-mbstring": "*",
-        "phpmailer/phpmailer": "6.5.0"
+        "phpmailer/phpmailer": "6.5.0",
+        "d4l/kirby-static-site-generator": "^1.0"
     },
     "scripts": {
         "start": [
