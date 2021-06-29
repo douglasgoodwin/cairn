@@ -6,10 +6,10 @@ title: Site
 # In this example blueprint, we also show subpages of the `photography` and `notes` pages.
 # More about the site blueprint: https://getkirby.com/docs/reference/panel/blueprints/site
 
-vercel:
-  label: Vercel
-  type: vercel
-  button: true // set to "false" to hide button, e.g. when using automatic hooks
+# vercel:
+#   label: Vercel
+#   type: vercel
+#   button: true // set to "false" to hide button, e.g. when using automatic hooks
 
 # The layout of this form has two columns:
 columns:
