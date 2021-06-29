@@ -5,7 +5,7 @@
         'type' => 'website',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '030be85539850d2426630a3be08404e80d05a8d6',
+        'reference' => 'f2120dc12503e29c92bf308394e4823f212a51ba',
         'name' => 'douglasgoodwin/cairn',
         'dev' => true,
     ),
@@ -25,7 +25,7 @@
             'type' => 'website',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '030be85539850d2426630a3be08404e80d05a8d6',
+            'reference' => 'f2120dc12503e29c92bf308394e4823f212a51ba',
             'dev_requirement' => false,
         ),
         'filp/whoops' => array(
