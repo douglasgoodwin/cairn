@@ -9,4 +9,16 @@
  */
 return [
     'debug' => true,
-];
+    // Required to make the button work. You can generate a Deployment Hook in Project Settings -> Git Integration in Vercel's Dashboard
+    // 'f-mahler.kirby-vercel.deployurl' => '<deployUrl>',
+
+    // To show the last deployment in the field, you need to add these settings
+    // 'f-mahler.kirby-vercel.token' => '<token>',
+    // 'f-mahler.kirby-vercel.projectid' => '<projectId>',
+
+    // // Automatically deploy when triggering one of the following hooks. See Kirby documentation for possible options
+    // 'f-mahler.kirby-vercel.hooks' => [
+    //     'site.update:after',
+    //     'page.update:after'
+    // ]
+ ];

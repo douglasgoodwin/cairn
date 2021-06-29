@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "fbf9f84b2ad0ba626ca1a26fcb26bd43",
+    "content-hash": "1f8a417073c6093c2b4b2bf127efa971",
     "packages": [
         {
             "name": "claviska/simpleimage",
@@ -93,6 +93,46 @@
                 "source": "https://github.com/d4l-data4life/kirby3-static-site-generator/tree/1.0.11"
             },
             "time": "2021-04-16T14:07:02+00:00"
+        },
+        {
+            "name": "f-mahler/kirby-vercel",
+            "version": "1.0.5",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/f-mahler/kirby-vercel.git",
+                "reference": "07b7ef4acd1fe75d9707da73c10da248feebdced"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/f-mahler/kirby-vercel/zipball/07b7ef4acd1fe75d9707da73c10da248feebdced",
+                "reference": "07b7ef4acd1fe75d9707da73c10da248feebdced",
+                "shasum": ""
+            },
+            "require": {
+                "getkirby/composer-installer": "^1.1"
+            },
+            "type": "kirby-plugin",
+            "autoload": {
+                "psr-4": {
+                    "KirbyVercel\\": "lib/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Frederik Mahler-Anderen",
+                    "email": "hello@fm-a.dk"
+                }
+            ],
+            "description": "Kirby Vercel Plugin",
+            "support": {
+                "issues": "https://github.com/f-mahler/kirby-vercel/issues",
+                "source": "https://github.com/f-mahler/kirby-vercel/tree/1.0.5"
+            },
+            "time": "2021-01-11T16:54:10+00:00"
         },
         {
             "name": "filp/whoops",

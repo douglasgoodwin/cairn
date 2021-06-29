@@ -22,7 +22,8 @@
         "ext-gd": "*",
         "ext-mbstring": "*",
         "phpmailer/phpmailer": "6.5.0",
-        "d4l/kirby-static-site-generator": "^1.0"
+        "d4l/kirby-static-site-generator": "^1.0",
+        "f-mahler/kirby-vercel": "^1.0"
     },
     "scripts": {
         "start": [
