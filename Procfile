@@ -1,1 +1,1 @@
-web: heroku-php-nginx
+web: heroku-php-nginx workspace
