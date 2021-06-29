@@ -1,9 +1,9 @@
 {
     "name": "douglasgoodwin/cairn",
-    "description": "cairn.com",
+    "description": "cairn.com is douglas goodwin",
     "type": "website",
-    "keywords": ["teaching", "video", "artist"],
-    "homepage": "https://getkirby.com",
+    "keywords": ["educator", "technologist", "artist"],
+    "homepage": "https://cairn.com",
     "authors": [
         {
             "name": "Douglas Goodwin",
@@ -21,8 +21,7 @@
         "getkirby/cms": "^3.5.7-rc.1",
         "ext-ctype": "*",
         "ext-mbstring": "*",
-        "phpmailer/phpmailer": "6.5.0",
-        "true/punycode": "2.1.1"
+        "phpmailer/phpmailer": "6.5.0"
     },
     "scripts": {
         "start": [
