@@ -35,3 +35,8 @@ Icon
 # ---------------
 /site/config/.license
 /site/accounts/.logins
+
+# exclude 'em!
+# https://getkirby.com/docs/cookbook/setup/composer#using-composer-for-other-dependencies
+/kirby
+/vendor
