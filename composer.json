@@ -22,19 +22,12 @@
         "ext-gd": "*",
         "ext-mbstring": "*",
         "ext-curl": "*",
-        "phpmailer/phpmailer": "6.5.0",
-        "d4l/kirby-static-site-generator": "^1.0"
+        "phpmailer/phpmailer": "6.5.0"
     },
     "scripts": {
-        "start": [
-            "Composer\\Config::disableProcessTimeout",
-            "@php -S localhost:8000 kirby/router.php"
-        ]
+        "run": "php -S localhost:8181 kirby/router.php"
     },
     "config": {
         "optimize-autoloader": true
-    },
-    "extra": {
-        "kirby-cms-path": "kirby"
     }
 }
