@@ -12,3 +12,4 @@ $kirby = new Kirby([
 ]);
 
 echo (new Kirby)->render();
+
