@@ -1,1 +1,1 @@
-web: heroku-php-nginx workspace
+web: vendor/bin/heroku-php-apache2
