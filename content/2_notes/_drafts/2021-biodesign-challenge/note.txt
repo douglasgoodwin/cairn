@@ -6,7 +6,9 @@ Text: [{"content":{"text":"<p><strong>The Biodesign Challenge<\/strong>&nbsp;is 
 
 ----
 
-Cover: 
+Cover:
+
+- biodesign_challenge_2017.jpg
 
 ----
 
