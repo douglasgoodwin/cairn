@@ -1,12 +1,13 @@
 <?php
 
-require __DIR__ . '/kirby/bootstrap.php';
+require '/workspace/kirby/bootstrap.php';
 
 $kirby = new Kirby([
     'roots' => [
-        'index'   => __DIR__,
-        'content' => __DIR__ . '/../content',
-        'site'    => __DIR__ . '/../site',
+        'index'   => '/workspace',
+        'content' => '/workspace/content',
+        'site'    => '/workspace/site',
+        'media'    => '/workspace/media',
     ],
 ]);
 
