@@ -1,5 +1,5 @@
 # Each page blueprint must have a title, the title may be different from the file name
-title: Photos
+title: photos
 
 # Each page can have an icon that is shown in page listings when no preview image is available.
 icon: 🖼
@@ -8,11 +8,11 @@ icon: 🖼
 # They differ in their page status and the headline.
 sections:
   drafts:
-    extends: sections/albums
+    extends: sections/photoalbums
     headline: Drafts
     status: draft
 
   listed:
-    extends: sections/albums
-    headline: Published Albums
+    extends: sections/photoalbums
+    headline: Published photo albums
     status: listed

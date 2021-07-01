@@ -17,7 +17,8 @@ columns:
   # It reuses the pages section defined in `/site/blueprints/sections/albums.yml`
   - width: 1/2
     sections:
-      albums: sections/albums
+      projectalbums: sections/projectalbums
+      photoalbums: sections/photoalbums
 
   # The second column has two sections, `notes` and `pages`
   - width: 1/2

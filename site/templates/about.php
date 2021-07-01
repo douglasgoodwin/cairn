@@ -25,7 +25,7 @@
 <?php snippet('layouts', ['field' => $page->layout()])  ?>
 
 <aside class="contact">
-  <h2 class="h1">Get in contact</h2>
+  <h2 class="h1">make contact</h2>
   <div class="grid" style="--gutter: 1.5rem">
     <section class="column text" style="--columns: 4">
       <h3>Address</h2>
