@@ -12,6 +12,8 @@ Icon
 # -------------SECURITY-------------
 # NEVER publish these files via Git!
 # -------------SECURITY-------------
+# don't overwrite the remote  config file unless you want to use the remote panel
+/site/config/config.php
 
 # Cache Files
 # ---------------
@@ -33,7 +35,8 @@ Icon
 
 # License & accounts
 # ---------------
-# /site/config/.license
+# I added  the  license directly -- don't overwrite it
+/site/config/.license
 /site/accounts/.logins
 
 # exclude 'em!
