@@ -31,9 +31,9 @@ Icon
 /site/sessions/*
 !/site/sessions/index.html
 
-# License
+# License & accounts
 # ---------------
-/site/config/.license
+# /site/config/.license
 /site/accounts/.logins
 
 # exclude 'em!
