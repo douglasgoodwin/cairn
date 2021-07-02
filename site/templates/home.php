@@ -27,7 +27,7 @@
     we call a method like `children()` in this case
   */
   ?>
-  <?php if ($photosPage = page('photos')): ?>
+  <?php if ($photosPage = page('projects')): ?>
   <ul class="home-grid">
     <?php foreach ($photosPage->children()->listed() as $album): ?>
     <li>
