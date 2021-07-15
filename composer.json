@@ -18,11 +18,10 @@
     },
     "require": {
         "php": ">=7.3.0 <8.1.0",
-        "getkirby/cms": "^3.5.7-rc.1",
+        "getkirby/cms": "^3.5.7",
         "ext-gd": "*",
         "ext-mbstring": "*",
-        "ext-curl": "*",
-        "phpmailer/phpmailer": "6.5.0"
+        "ext-curl": "*"
     },
     "scripts": {
         "run": "php -S localhost:8181 kirby/router.php"

@@ -422,3 +422,8 @@ hr {
 }
 
 
+/* for the contact form */
+.honeypot {
+  position: absolute;
+  left: -9999px;
+}

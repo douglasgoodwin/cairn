@@ -7,18 +7,32 @@
  * This setting must be set to false in production.
  * All config options: https://getkirby.com/docs/reference/system/options
  */
-return [
+// return [
+//     'debug' => true,
+//     // Required to make the button work. You can generate a Deployment Hook in Project Settings -> Git Integration in Vercel's Dashboard
+//     // 'f-mahler.kirby-vercel.deployurl' => '<deployUrl>',
+
+//     // To show the last deployment in the field, you need to add these settings
+//     // 'f-mahler.kirby-vercel.token' => '<token>',
+//     // 'f-mahler.kirby-vercel.projectid' => '<projectId>',
+
+//     // // Automatically deploy when triggering one of the following hooks. See Kirby documentation for possible options
+//     // 'f-mahler.kirby-vercel.hooks' => [
+//     //     'site.update:after',
+//     //     'page.update:after'
+//     // ]
+//  ];
+
+
+
+ return [
     'debug' => true,
-    // Required to make the button work. You can generate a Deployment Hook in Project Settings -> Git Integration in Vercel's Dashboard
-    // 'f-mahler.kirby-vercel.deployurl' => '<deployUrl>',
-
-    // To show the last deployment in the field, you need to add these settings
-    // 'f-mahler.kirby-vercel.token' => '<token>',
-    // 'f-mahler.kirby-vercel.projectid' => '<projectId>',
-
-    // // Automatically deploy when triggering one of the following hooks. See Kirby documentation for possible options
-    // 'f-mahler.kirby-vercel.hooks' => [
-    //     'site.update:after',
-    //     'page.update:after'
-    // ]
- ];
+    'email' => [
+      'transport' => [
+        'type' => 'smtp',
+        'host' => 'localhost',
+        'port' => 1025,
+        'security' => false
+      ]
+    ],
+  ];

@@ -1,0 +1,21 @@
+Title: Gender synths
+
+----
+
+Cover: 
+
+----
+
+Headline: 
+
+----
+
+Subheadline: what computers know about gender
+
+----
+
+Text: <p>These synthetic images are confabulated by a deep learning model based on a dataset containing 70,000 Flickr photos. </p><p>Gender is inferred from image patterns associated with the gender identified in the photo. </p>
+
+----
+
+Tags: StyleGAN2, gender, clones
