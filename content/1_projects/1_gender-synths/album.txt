@@ -10,12 +10,12 @@ Headline:
 
 ----
 
-Subheadline: what computers know about gender
+Subheadline: What do computers know about gender?
 
 ----
 
-Text: <p>We may be unsure about gender, but computers have no trouble. </p><p>These synthetic images are confabulated by a deep learning model based on a dataset containing 70,000 Flickr photos.</p><p>Gender is inferred from image patterns associated with the gender identified in the photo.</p>
+Text: <p>We may be unsure about gender, but computers have no trouble.</p><p>These synthetic images are confabulated by a deep learning model based on a dataset containing 70,000 Flickr photos.</p><p>Gender is inferred from image patterns associated with the gender identified in the photo.</p><p>Remind yourself that these faces are synthetic. They are articulations of common photographic patterns leveraging our own compulsions to take photographs for real. </p>
 
 ----
 
-Tags: StyleGAN2, gender, clones
+Tags: StyleGAN2, gender, clones, photography, realism
