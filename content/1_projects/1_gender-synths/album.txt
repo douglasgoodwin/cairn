@@ -14,7 +14,7 @@ Subheadline: What do computers know about gender?
 
 ----
 
-Text: <p>We may be unsure about gender, but computers have no trouble.</p><p>I found a dataset of 90k gendered synthetic images and started playing around with joining them back into single faces to see how the model had "gendered" each image. These mirrored pairs are a step along the way.</p><p></p><p>These faces are not real people. They are the children of tens of thousands of Flickr photos. I think of them as remixes of photographic patterns that appeal to desire to see photographs as real.</p>
+Text: <p>We may be unsure about gender, how can it be so easy for computers? </p><p>I found a dataset of 90k gendered synthetic images and started playing around with joining them back into single faces to see how the model had "gendered" each image. These mirrored pairs are a step along the way.</p><p></p><p>These faces are not real people. They are the children of tens of thousands of Flickr photos. I think of them as remixes of photographic patterns that appeal to desire to see photographs as real.</p>
 
 ----
 
