@@ -14,8 +14,8 @@ Subheadline: What do computers know about gender?
 
 ----
 
-Text: <p>We may be unsure about gender, how can it be so easy for computers? </p><p>I found a dataset of 90k gendered synthetic images and started playing around with joining them back into single faces to see how the model had "gendered" each image. These mirrored pairs are a step along the way.</p><p></p><p>These faces are not real people. They are the children of tens of thousands of Flickr photos. I think of them as remixes of photographic patterns that appeal to desire to see photographs as real.</p>
+Text: <p>We may be unsure about gender, how can it be so easy for computers?</p><p>I found a dataset of 90k gendered synthetic images and started playing around with joining them back into single faces to see how the model had "gendered" each image. These mirrored pairs are a step along the way.</p><p>These faces are not real people. They are the children of tens of thousands of Flickr photos. I think of them as remixes of photographic patterns that appeal to desire to see photographs as real.</p><p>I want to contrast these pictures with a more nuanced discussion of gender. I am also interested in comparing the technology that makes specifying gender possible comparing making pictures of gendered faces to gendered bodies.</p>
 
 ----
 
-Tags: StyleGAN2, gender, clones, photography, realism
+Tags: StyleGAN2, gender, clones, photography, realism, technology
